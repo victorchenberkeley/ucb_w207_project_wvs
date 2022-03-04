@@ -1,0 +1,1070 @@
+﻿variable_code,variable_question
+S001,
+S002,
+S003,
+COUNTRY_ALPHA,
+COW_NUM,
+COW_ALPHA,
+S006,
+S007,
+S008,
+S010,
+S011A,
+S011B,
+S012,
+S013,
+S013B,
+S016,
+S017,
+S018,
+S019,
+S020,
+S021,
+S024,
+S025,
+A001,"For each of the following aspects, indicate how important it is in your life. Would you say it is very important, rather important, not very important or not important at all  Family"
+A002,"For each of the following aspects, indicate how important it is in your life. Would you say it is very important, rather important, not very important or not important at all  Friends"
+A003,"For each of the following aspects, indicate how important it is in your life. Would you say it is very important, rather important, not very important or not important at all  Leisure time"
+A004,"For each of the following aspects, indicate how important it is in your life. Would you say it is very important, rather important, not very important or not important at all  Politics"
+A005,"For each of the following aspects, indicate how important it is in your life. Would you say it is very important, rather important, not very important or not important at all  Work"
+A006,"For each of the following aspects, indicate how important it is in your life. Would you say it is very important, rather important, not very important or not important at all  Religion"
+A007,"For each of the following aspects, indicate how important it is in your life. Would you say it is:"
+A008,"Taking all things together, would you say you are:"
+A009,"All in all, how would you describe your state of health these days? Would you say it is..."
+A010,"We are interested in the way people are feeling these days. During the past few weeks, did you ever feel..."
+A011,"We are interested in the way people are feeling these days. During the past few weeks, did you ever feel..."
+A012,"We are interested in the way people are feeling these days. During the past few weeks, did you ever feel..."
+A013,"We are interested in the way people are feeling these days. During the past few weeks, did you ever feel..."
+A014,"We are interested in the way people are feeling these days. During the past few weeks, did you ever feel..."
+A015,"We are interested in the way people are feeling these days. During the past few weeks, did you ever feel..."
+A016,"We are interested in the way people are feeling these days. During the past few weeks, did you ever feel..."
+A017,"We are interested in the way people are feeling these days. During the past few weeks, did you ever feel..."
+A018,"We are interested in the way people are feeling these days. During the past few weeks, did you ever feel..."
+A019,"We are interested in the way people are feeling these days. During the past few weeks, did you ever feel..."
+A025,"With which of these two statements do you tend to agree?   A. Regardless of what the qualities and faults of one's parents are, one must always love and respect them.  B. One does not have the duty to respect and love parents who have not earned it by their behaviour and attitudes."
+A026,Which of the following statements best describes your views about parents' responsibilities to their children?   A. Parents' duty is to do their best for their children even at the expense of their own well-being  B Parents have a life of their own and should not be asked to sacrifice their own well-being for the sake of their children
+A027,"Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five.  Good manners"
+A029,"Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five.  Independence"
+A030,"Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five.  Hard work"
+A032,"Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five.  Feeling of responsibility"
+A034,"Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five.  Imagination"
+A035,"Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five.  Tolerance and respect for other people"
+A038,"Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five.  Thrift saving money and things"
+A039,"Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five.  Determination, perseverance"
+A040,"Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five.  Religious faith"
+A041,"Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five.  Not being selfish (unselfishness)"
+A042,"Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five.  Obedience"
+A043B,"Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five."
+A044,"Here is a shorter list of things that children can be encouraged to learn. If you had to choose, which one of these do you consider the most important thing for a child to learn at home?.  And what would you say is the second most important thing for a child to learn?"
+A045,"Here is a shorter list of things that children can be encouraged to learn. If you had to choose, which one of these do you consider the most important thing for a child to learn at home?.  And what would you say is the second most important thing for a child to learn?"
+A046,Do you approve or disapprove of abortion under the following circumstances?
+A047,Do you approve or disapprove of abortion under the following circumstances?
+A048,Do you approve or disapprove of abortion under the following circumstances?.
+A049,Do you approve or disapprove of abortion under the following circumstances?.
+A057,"I'm going to ask how often you do certain things. For each activity,would you say you do them every week or nearly every week;  once or twice a month;  only a few times a year;  or not at all?"
+A058,"I'm going to ask how often you do certain things. For each activity,would you say you do them every week or nearly every week;  once or twice a month;  only a few times a year;  or not at all?  (EVS99 - Interviewer: Code 'Not applicable' when respondent is not involved in work, church or club)."
+A059,"I'm going to ask how often you do certain things. For each activity,would you say you do them every week or nearly every week;  once or twice a month;  only a few times a year;  or not at all?  (EVS99 - Interviewer: Code 'Not applicable' when respondent is not involved in work, church or club)."
+A060,"I'm going to ask how often you do certain things. For each activity,would you say you do them every week or nearly every week;  once or twice a month;  only a few times a year;  or not at all?"
+A061,"I'm going to ask how often you do certain things. For each activity,would you say you do them every week or nearly every week;  once or twice a month;  only a few times a year;  or not at all?"
+A062,"When you get together with your friends, would you say you discuss political matters frequently, occasionally or never?"
+A063,"When you, yourself, hold a strong opinion, do you ever find yourself persuading your friends, relatives or fellow workers to share your views or not? If so, does this happen often, from time to time or rarely?."
+A064,"Please look carefully at the following list of voluntary organisations and activities and say...which, if any, do you belong to?"
+A065,"Please look carefully at the following list of voluntary organisations and activities and say...which, if any, do you belong to?"
+A066,"Please look carefully at the following list of voluntary organisations and activities and say...which, if any, do you belong to?"
+A067,"Please look carefully at the following list of voluntary organisations and activities and say...which, if any, do you belong to?"
+A068,"Please look carefully at the following list of voluntary organisations and activities and say...which, if any, do you belong to?"
+A069,"Please look carefully at the following list of voluntary organisations and activities and say...which, if any, do you belong to?"
+A070,"Please look carefully at the following list of voluntary organisations and activities and say...which, if any, do you belong to?"
+A071,"Please look carefully at the following list of voluntary organisations and activities and say...which, if any, do you belong to?"
+A071B,"Please look carefully at the following list of voluntary organisations and activities and say…which, if any, do you belong to?"
+A071C,"Please look carefully at the following list of voluntary organisations and activities and say…which, if any, do you belong to?"
+A072,"Please look carefully at the following list of voluntary organisations and activities and say...which, if any, do you belong to?"
+A073,"Please look carefully at the following list of voluntary organisations and activities and say...which, if any, do you belong to?"
+A074,"Please look carefully at the following list of voluntary organisations and activities and say...which, if any, do you belong to?"
+A075,"Please look carefully at the following list of voluntary organisations and activities and say...which, if any, do you belong to?"
+A076,"Please look carefully at the following list of voluntary organisations and activities and say...which, if any, do you belong to?"
+A077,"Please look carefully at the following list of voluntary organisations and activities and say...which, if any, do you belong to?"
+A079,"Please look carefully at the following list of voluntary organisations and activities and say...which, if any, do you belong to?"
+A080,"Please look carefully at the following list of voluntary organisations and activities and say...which, if any, do you belong to?"
+A081,"And for which, if any, are you currently doing unpaid voluntary work?"
+A082,"And for which, if any, are you currently doing unpaid voluntary work?"
+A083,"And for which, if any, are you currently doing unpaid voluntary work?"
+A084,"And for which, if any, are you currently doing unpaid voluntary work?"
+A085,"And for which, if any, are you currently doing unpaid voluntary work?"
+A086,"And for which, if any, are you currently doing unpaid voluntary work?"
+A087,"And for which, if any, are you currently doing unpaid voluntary work?"
+A088,"And for which, if any, are you currently doing unpaid voluntary work?"
+A088B,"And for which, if any, are you currently doing unpaid voluntary work?"
+A088C,"And for which, if any, are you currently doing unpaid voluntary work?"
+A089,"And for which, if any, are you currently doing unpaid voluntary work?"
+A090,"And for which, if any, are you currently doing unpaid voluntary work?"
+A091,"And for which, if any, are you currently doing unpaid voluntary work?"
+A092,"And for which, if any, are you currently doing unpaid voluntary work?"
+A093,"And for which, if any, are you currently doing unpaid voluntary work?"
+A094,"And for which, if any, are you currently doing unpaid voluntary work?"
+A096,"And for which, if any, are you currently doing unpaid voluntary work?"
+A097,"And for which, if any, are you currently doing unpaid voluntary work?"
+A098,"Now I am going to read out a list of voluntary organizations; for each one, could you tell me whether you are a member, an active member, an inactive member or not a member of that type of organization?  Church or religious organization"
+A099,"Now I am going to read out a list of voluntary organizations; for each one, could you tell me whether you are a member, an active member, an inactive member or not a member of that type of organization?  Sport or recreational organization, football/baseball/rugby team"
+A100,"Now I am going to read out a list of voluntary organizations; for each one, could you tell me whether you are a member, an active member, an inactive member or not a member of that type of organization?  Art, music or educational organization"
+A101,"Now I am going to read out a list of voluntary organizations; for each one, could you tell me whether you are a member, an active member, an inactive member or not a member of that type of organization?  Labour Union"
+A102,"Now I am going to read out a list of voluntary organizations; for each one, could you tell me whether you are a member, an active member, an inactive member or not a member of that type of organization?  Political party"
+A103,"Now I am going to read out a list of voluntary organizations; for each one, could you tell me whether you are a member, an active member, an inactive member or not a member of that type of organization?  Environmental organization"
+A104,"Now I am going to read out a list of voluntary organizations; for each one, could you tell me whether you are a member, an active member, an inactive member or not a member of that type of organization?  Professional association"
+A105,"Now I am going to read out a list of voluntary organizations; for each one, could you tell me whether you are a member, an active member, an inactive member or not a member of that type of organization?  Humanitarian or charitable organization"
+A106,"Now I am going to read out a list of voluntary organizations; for each one, could you tell me whether you are a member, an active member, an inactive member or not a member of that type of organization?  Other organization"
+A106B,"Now I am going to read out a list of voluntary organizations; for each one, could you tell me whether you are a member, an active member, an inactive member or not a member of that type of organization?  Consumer organization"
+A106C,"Now I am going to read off a list of voluntary organizations. For each organization, could you tell me whether you are an active member, an inactive member or not a member of that type of organization?:   Self-help group, mutual aid group"
+A106D,"Now I am going to read out a list of voluntary organizations; for each one, could you tell me whether you are a member, an active member, an inactive member or not a member of that type of organization?  Women’s group"
+A107,"Thinking about your reasons for doing voluntary work, please use the following five-point scale to indicate how important each of the reasons below have been in your own case."
+A108,"Thinking about your reasons for doing voluntary work, please use the following five-point scale to indicate how important each of the reasons below have been in your own case."
+A109,"Thinking about your reasons for doing voluntary work, please use the following five-point scale to indicate how important each of the reasons below have been in your own case."
+A110,"Thinking about your reasons for doing voluntary work, please use the following five-point scale to indicate how important each of the reasons below have been in your own case."
+A111,"Thinking about your reasons for doing voluntary work, please use the following five-point scale to indicate how important each of the reasons below have been in your own case."
+A112,"Thinking about your reasons for doing voluntary work, please use the following five-point scale to indicate how important each of the reasons below have been in your own case."
+A113,"Thinking about your reasons for doing voluntary work, please use the following five-point scale to indicate how important each of the reasons below have been in your own case."
+A114,"Thinking about your reasons for doing voluntary work, please use the following five-point scale to indicate how important each of the reasons below have been in your own case."
+A115,"Thinking about your reasons for doing voluntary work, please use the following five-point scale to indicate how important each of the reasons below have been in your own case."
+A116,"Thinking about your reasons for doing voluntary work, please use the following five-point scale to indicate how important each of the reasons below have been in your own case."
+A117,"Thinking about your reasons for doing voluntary work, please use the following five-point scale to indicate how important each of the reasons below have been in your own case."
+A118,"Thinking about your reasons for doing voluntary work, please use the following five-point scale to indicate how important each of the reasons below have been in your own case."
+A119,"Thinking about your reasons for doing voluntary work, please use the following five-point scale to indicate how important each of the reasons below have been in your own case."
+A120,"A120.- Thinking about your reasons for doing voluntary work, please use the following five-point scale to indicate how important each of the reasons below have been in your own case."
+A124_01,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+A124_02,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?  People of a different race
+A124_03,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?  Heavy drinkers
+A124_04,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+A124_05,On this list are various groups of people. Could you identify any that you would not like to have as neighbours?
+A124_06,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?  Immigrants/foreign workers
+A124_07,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?  People who have AIDS
+A124_08,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?  Drug addicts
+A124_09,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?  Homosexuals
+A124_10,On this list are various groups of people. Could you identify any that you would not like to have as neighbours?  Jews
+A124_11,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+A124_12,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?  People of a different religion
+A124_13,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+A124_14,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+A124_15,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+A124_16,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+A124_17,On this list are various groups of people. Could you identify any that you would not like to have as neighbours?  Gypsies
+A124_18,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+A124_19,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+A124_20,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+A124_21,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+A124_22,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+A124_23,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+A124_24,On this list are various groups of people. Could you identify any that you would not like to have as neighbours?
+A124_25,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+A124_27,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+A124_28,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+A124_29,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+A124_30,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+A124_31,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+A124_32,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+A124_33,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+A124_34,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+A124_35,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+A124_36,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+A124_37,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+A124_38,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+A124_42,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?  Unmarried couples living together
+A124_43,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?  People who speak a different language
+A124_45,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+A124_46,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+A124_47,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+A124_48,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+A124_49,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+A124_50,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+A124_51,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+A124_52,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+A124_53,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+A124_54,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors? (Code an answer for each group):
+A124_55,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+A124_56,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+A124_57,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+A124_58,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+A124_59,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+A124_60,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+A124_61,On this list are various groups of people. Could you please mention any that you would not like to have as neighbors?
+A165,"Generally speaking, would you say that most people can be trusted or that you need to be very careful in dealing with people?"
+A168,"Do you think most people would try to take advantage of you if they got a chance, or would they try to be fair?"
+A168A,"Do you think most people would try to take advantage of you if they got a chance, or would they try to be fair? Please show your response on this card, where 1 means that “people would try to take advantage of you,” and 10 means that “people would try to be fair”:"
+A169,"For each of the following pairs of statements, please tell me which one comes closest to your own views:"
+A170,"All things considered, how satisfied are you with your life as a whole these days? Please use this card to help with your answer."
+A173,"Some people feel they have completely free choice and control over their lives, while other people feel that what they do has no real effect on what happens to them. Please use this scale where 1 means ""none at all"" and 10 means ""a great deal"" to indicate how much freedom of choice and control you feel you have over the way your life turns out."
+A174,"Now I am going to read off a list of voluntary organizations. For each one, could you tell me whether you are an active member, an inactive member or not a member of that type of organization? (Read out and code one answer for each organization): Consumer organization"
+A189,"Now I will briefly describe some people. Using this card, would you please indicate for each description whether that person is very much like you, like you, somewhat like you, not like you, or not at all like you?"
+A190,"Now I will briefly describe some people. Using this card, would you please indicate for each description whether that person is very much like you, like you, somewhat like you, not like you, or not at all like you?"
+A191,"Now I will briefly describe some people. Using this card, would you please indicate for each description whether that person is very much like you, like you, somewhat like you, not like you, or not at all like you?"
+A192,"Now I will briefly describe some people. Using this card, would you please indicate for each description whether that person is very much like you, like you, somewhat like you, not like you, or not at all like you? :  ""It is important to this person to have a good time; to “spoil” oneself"""
+A193,"Now I will briefly describe some people. Using this card, would you please indicate for each description whether that person is very much like you, like you, somewhat like you, not like you, or not at all like you? :   ""It is important to help people living nearby; to care for their needs"""
+A194,"Now I will briefly describe some people. Using this card, would you please indicate for each description whether that person is very much like you, like you, somewhat like you, not like you, or not at all like you?"
+A195,"Now I will briefly describe some people. Using this card, would you please indicate for each description whether that person is very much like you, like you, somewhat like you, not like you, or not at all like you?"
+A196,"Now I will briefly describe some people. Using this card, would you please indicate for each description whether that person is very much like you, like you, somewhat like you, not like you, or not at all like you?"
+A197,"Now I will briefly describe some people. Using this card, would you please indicate for each description whether that person is very much like you, like you, somewhat like you, not like you, or not at all like you?"
+A198,"Now I will briefly describe some people. Using this card, would you please indicate for each description whether that person is very much like you, like you, somewhat like you, not like you, or not at all like you?"
+A199,"Now I will briefly describe some people. Using this card, would you please indicate for each description whether that person is very much like you, like you, somewhat like you, not like you, or not at all like you?"
+A200,"I’m interested in how you think most people in this country view the position in society of people in their 20s, people in their 40s and people over 70.* Using this card, please tell me where most people would place the social position of …"
+A201,"I’m interested in how you think most people in this country view the position in society of people in their 20s, people in their 40s and people over 70.* Using this card, please tell me where most people would place the social position of …"
+A202,"I’m interested in how you think most people in this country view the position in society of people in their 20s, people in their 40s and people over 70.* Using this card, please tell me where most people would place the social position of …"
+A203,Please tell me how acceptable or unacceptable you think most people in [country] would find it if a suitably qualified 30 year old was appointed as their boss?
+A204,Now think about those aged over 70*. Using the same card please tell me how likely it is that most people in [country] view those over 70...
+A205,Now think about those aged over 70*. Using the same card please tell me how likely it is that most people in [country] view those over 70...
+A206,Now think about those aged over 70*. Using the same card please tell me how likely it is that most people in [country] view those over 70...
+A207,Please tell me how acceptable or unacceptable you think most people in [country] would find it if a suitably qualified 70* year old was appointed as their boss?
+A208,"Now could you tell me whether you agree, agree strongly, disagree or disagree strongly with each of the following statements?"
+A209,"Now could you tell me whether you agree, agree strongly, disagree or disagree strongly with each of the following statements?"
+A210,"Now could you tell me whether you agree, agree strongly, disagree or disagree strongly with each of the following statements?"
+A211,"Now could you tell me whether you agree, agree strongly, disagree or disagree strongly with each of the following statements?"
+A212,"Now could you tell me whether you agree, agree strongly, disagree or disagree strongly with each of the following statements?"
+A213,"Now could you tell me whether you agree strongly, agree a little, neither agree nor disagree, disagree  a little or disagree strongly with each of the following statements?:"
+A214,"Now could you tell me whether you agree strongly, agree a little, neither agree nor disagree, disagree  a little or disagree strongly with each of the following statements?:"
+A215,"Now could you tell me whether you agree strongly, agree a little, neither agree nor disagree, disagree  a little or disagree strongly with each of the following statements?:"
+A216,"Now could you tell me whether you agree strongly, agree a little, neither agree nor disagree, disagree  a little or disagree strongly with each of the following statements?:"
+A217,"Now could you tell me whether you agree strongly, agree a little, neither agree nor disagree, disagree  a little or disagree strongly with each of the following statements?:"
+A218,"Now could you tell me whether you agree strongly, agree a little, neither agree nor disagree, disagree  a little or disagree strongly with each of the following statements?:"
+A219,"Now could you tell me whether you agree strongly, agree a little, neither agree nor disagree, disagree  a little or disagree strongly with each of the following statements?:"
+A220,"Now could you tell me whether you agree strongly, agree a little, neither agree nor disagree, disagree  a little or disagree strongly with each of the following statements?:"
+A221,"Now could you tell me whether you agree strongly, agree a little, neither agree nor disagree, disagree  a little or disagree strongly with each of the following statements?:"
+A222,"Now could you tell me whether you agree strongly, agree a little, neither agree nor disagree, disagree  a little or disagree strongly with each of the following statements?:"
+B001,"I am now going to read out some statements about the environment. For each one read out, can you tell me whether you agree strongly, agree, disagree or strongly disagree? (Read out each statement and code an answer for each)"
+B002,"I am now going to read out some statements about the environment. For each one read out, can you tell me whether you agree strongly, agree, disagree or strongly disagree? (Read out each statement and code an answer for each)"
+B003,"I am now going to read out some statements about the environment. For each one read out, can you tell me whether you agree strongly, agree, disagree or strongly disagree? (Read out each statement and code an answer for each)"
+B004,"I am now going to read out some statements about the environment. For each one I read out, can you tell me whether you agree strongly, agree, disagree or disagree strongly? (Read out each statement and code an answer for each)"
+B005,"I am now going to read out some statements about the environment. For each one I read out, can you tell me whether you agree strongly, agree, disagree or disagree strongly? (Read out each statement and code an answer for each)"
+B006,"I am now going to read out some statements about the environment. For each one I read out, can you tell me whether you agree strongly, agree, disagree or disagree strongly? (Read out each statement and code an answer for each)"
+B007,"I am now going to read out some statements about the environment. For each one I read out, can you tell me whether you agree strongly, agree, disagree or disagree strongly?. (Read out each statement and code an answer for each)"
+B008,"Here are two statements people sometimes make when discussing the environment and economic growth. Which of them comes closer to your own point of view?  A. Protecting the environment should be given priority, even if it causes slower economic growth and some loss of jobs  B. Economic growth and creating jobs should be the top priority, even if the environment suffers to some extent"
+B009,"For each of the following pairs of statements, please tell me which one comes closest to your own views:"
+B010,"I am now going to read out some statements about the environment. For each one I read out, can you tell me whether you agree strongly, agree, disagree or disagree strongly? (Read out each statement and code an answer for each)"
+B011,"Which, if any, of these things have you done in the last 12 months, out of concern for the environment?. Have you decided for environmental reasons to reuse or recycle something rather than throw it away?.  Have you chosen household products that you think are better for the environment?"
+B012,"Which, if any, of these things have you done in the last 12 months, out of concern for the environment?. Have you decided for environmental reasons to reuse or recycle something rather than throw it away?.  Have you decided for environmental reasons to reuse or recycle something rather than throw it away?"
+B013,"Which, if any, of these things have you done in the last 12 months, out of concern for the environment?. Have you decided for environmental reasons to reuse or recycle something rather than throw it away?."
+B014,"Which, if any, of these things have you done in the last 12 months, out of concern for the environment?. Have you decided for environmental reasons to reuse or recycle something rather than throw it away?."
+B015,"Which, if any, of these things have you done in the last 12 months, out of concern for the environment?. Have you decided for environmental reasons to reuse or recycle something rather than throw it away?."
+B016,"For each of the following pairs of statements, please tell me which one comes closest to your own views"
+B017,"For each of the following pairs of statements, please tell me which one comes closest to your own views"
+B018,"I am going to read out a list of environmental problems facing many communities. Please, tell me how serious you consider each one to be here in your own community. Is it very serious, somewhat serious, not very serious or not serious at all?"
+B019,"I am going to read out a list of environmental problems facing many communities. Please, tell me how serious you consider each one to be here in your own community. Is it very serious, somewhat serious, not very serious or not serious at all?"
+B020,"I am going to read out a list of environmental problems facing many communities. Please, tell me how serious you consider each one to be here in your own community. Is it very serious, somewhat serious, not very serious or not serious at all?"
+B021,"Now let’s consider environmental problems in the world as a whole. Please, tell me how serious you consider each of the following to be for the world as a whole. Is it very serious, somewhat serious, not very serious or not serious at all?"
+B022,"Now let’s consider environmental problems in the world as a whole. Please, tell me how serious you consider each of the following to be for the world as a whole. Is it very serious, somewhat serious, not very serious or not serious at all? (Read out and code one answer for each problem): Loss of plant or animal species or biodiversity."
+B023,"Now let’s consider environmental problems in the world as a whole. Please, tell me how serious you consider each of the following to be for the world as a whole. Is it very serious, somewhat serious, not very serious or not serious at all?"
+B030,During the past two years have you… Given money to an ecological organization?
+B031,During the past two years have you…Participated in a demonstration for some environmental cause?
+C001,"Do you agree, disagree or neither agree nor disagree with the following statements?  When jobs are scarce, men should have more right to a job than women"
+C002,"Do you agree, disagree or neither agree nor disagree with the following statements?  When jobs are scarce, employers should give priority to people of this country over immigrants."
+C004,Do you agree or disagree with the following statements?
+C005,Do you agree or disagree with the following statements?
+C006,"How satisfied are you with the financial situation of your household? If '1' means you are completely dissatisfied on this scale, and '10' means you are completely satisfied, where would you put your satisfaction with your household's financial situation?"
+C008,"Which point on this scale most clearly describes how much weight you place on work (including housework and schoolwork), as compared with leisure or recreation?  A It´s leisure that makes life worth living, not work  B Work is what makes life worth living, not leisure"
+C009,"Now I would like to ask you something about the things which would seem to you, personally, most important if you were looking for a job. Here are some of the things many people take into account in relation to their work. Regardless of whether you're actually looking for a job, which one would you, personally, place first if you were looking for a job?"
+C010,"Now I would like to ask you something about the things which would seem to you, personally, most important if you were looking for a job. Here are some of the things many people take into account in relation to their work. Regardless of whether you're actually looking for a job, which one would you, personally, place first if you were looking for a job?"
+C011,Here are some aspects of a job that people say are important. Please look at them and tell me which ones you personally think are important in a job?  Good pay
+C012,Here are some more aspects of a job that people say are important. Please look at them and tell me which ones you personally think are important in a job?
+C013,Here are some more aspects of a job that people say are important. Please look at them and tell me which ones you personally think are important in a job?
+C014,Here are some more aspects of a job that people say are important. Please look at them and tell me which ones you personally think are important in a job?
+C015,Here are some aspects of a job that people say are important. Please look at them and tell me which ones you personally think are important in a job?  Good hours
+C016,Here are some aspects of a job that people say are important. Please look at them and tell me which ones you personally think are important in a job?    An opportunity to use initiative
+C017,Here are some aspects of a job that people say are important. Please look at them and tell me which ones you personally think are important in a job?  Generous holidays
+C018,Here are some aspects of a job that people say are important. Please look at them and tell me which ones you personally think are important in a job?  A job in which you feel you can achieve something
+C019,Here are some aspects of a job that people say are important. Please look at them and tell me which ones you personally think are important in a job?  A responsible job
+C020,Here are some more aspects of a job that people say are important. Please look at them and tell me which ones you personally think are important in a job?
+C021,Here are some more aspects of a job that people say are important. Please look at them and tell me which ones you personally think are important in a job?
+C022,Here are some more aspects of a job that people say are important. Please look at them and tell me which ones you personally think are important in a job?
+C023,CHere are some more aspects of a job that people say are important. Please look at them and tell me which ones you personally think are important in a job?
+C024,Here are some more aspects of a job that people say are important. Please look at them and tell me which ones you personally think are important in a job?
+C025,Here are some more aspects of a job that people say are important. Please look at them and tell me which ones you personally think are important in a job?
+C027_90,Here are some aspects of a job that people say are important. Please look at them and tell me which ones you personally think are important in a job?  None of these (spontaneous)
+C031,"How much pride, if any, do you take in the work that you do? (Read out)"
+C033,"Overall, how satisfied or dissatisfied are you with your job?"
+C034,How free are you to make decisions in your job?
+C036,"Do you agree or disagree with the following statements?   To fully develop your talents, you need to have a job"
+C037,Do you agree or disagree with the following statements?
+C038,Do you agree or disagree with the following statements?  People who don’t work turn lazy
+C039,Do you agree or disagree with the following statements?  Work is a duty towards society
+C040,Do you agree or disagree with the following statements?
+C041,"Do you agree or disagree with the following statements?  Work should always come first, even if it means less spare time"
+C042B1,"Here are some statements about why people work. Irrespective of whether you have a job, or not, which of them comes closest to what you think?"
+C042B2,"Here are some statements about why people work. Irrespective of whether you have a job, or not, which of them comes closest to what you think?  I will always do the best I can, regardless of pay"
+C042B3,"Here are some statements about why people work. Irrespective of whether you have a job, or not, which of them comes closest to what you think?  Working for a living is a necessity; I wouldn't work if I didn't have to"
+C042B4,"Here are some statements about why people work. Irrespective of whether you have a job, or not, which of them comes closest to what you think?  I enjoy working but I don't let it interfere with the rest of my life"
+C042B5,"Here are some statements about why people work. Irrespective of whether you have a job, or not, which of them comes closest to what you think?  I enjoy working but I don't let it interfere with the rest of my life"
+C042B6,"Here are some statements about why people work. Irrespective of whether you have a job, or not, which of them comes closest to what you think?  I never had a paid job"
+C042B7,"Here are some statements about why people work. Irrespective of whether you have a job, or not, which of them comes closest to what you think?  Don't know"
+C059,"Imagine two secretaries, of the same age, doing practically the same job. One finds out that the other earns considerably more than she does. The better paid secretary, however, is quicker, more efficient and more reliable at her job. In your opinion, is it fair or not fair that one secretary is paid more than the other?"
+C060,There is a lot of discussion about how business and industry should be managed. Which of these four statements comes closest to your opinion?
+C061,People have different ideas about following instructions at work. Some say that one should follow one's superior's instructions even when one does not fully agree with them. Others say that one should follow one's superior's instructions only when one is convinced that they are  right. With which of these two opinions do you agree?
+C062,"Now I'd like to ask you some questions about how you feel about work-whether it's work in the home or outside the home. Could you tell me how strongly you agree or disagree with each of the following statements: do you agree strongly, agree, disagree or disagree strongly?. I almost always continue to work on a task until I am satisfied with the result.  I almost always continue to work on a task until I am satisfied with the result"
+C063,"Now I'd like to ask you some questions about how you feel about work-whether it's work in the home or outside the home. Could you tell me how strongly you agree or disagree with each of the following statements: do you agree strongly, agree, disagree or disagree strongly?. I almost always continue to work on a task until I am satisfied with the result.  I feel disappointed in myself when I don't accomplish my personal goals"
+C064,"Now I'd like to ask you some questions about how you feel about work-whether it's work in the home or outside the home. Could you tell me how strongly you agree or disagree with each of the following statements: do you agree strongly, agree, disagree or disagree strongly?. I almost always continue to work on a task until I am satisfied with the result.  I like work so much that I often stay up late at night to finish it"
+D001,"I now want to ask you how much you trust various groups of people: Using the responses on this card, could you tell me how much you trust… (Read out each and code answer for each)"
+D001_B,"I ‘d like to ask you how much you trust people from various groups. Could you tell me for each whether you trust people from this group completely, somewhat, not very much or not at all?  Your family"
+D002,"Overall, how satisfied or dissatisfied are you with your home life?"
+D003,Do (did) you and your partner share any of the following?
+D004,Do (did) you and your partner share any of the following?
+D005,Do (did) you and your partner share any of the following?
+D006,Do (did) you and your partner share any of the following?
+D007,Do (did) you and your partner share any of the following?
+D008,Do (did) you and your partner share any of the following?
+D009,Do (did) you and your partner share any of the following?    Don't know
+D010,And how about your parents? Do (did) you and your parents share any of the following?
+D011,And how about your parents? Do (did) you and your parents share any of the following?
+D012,And how about your parents? Do (did) you and your parents share any of the following?   Social attitudes
+D013,And how about your parents? Do (did) you and your parents share any of the following?   Political attitudes
+D014,And how about your parents? Do (did) you and your parents share any of the following?   Sexual attitudes
+D015,And how about your parents? Do (did) you and your parents share any of the following?
+D016,And how about your parents? Do (did) you and your parents share any of the following?
+D017,"What do you think is the ideal size of the family? How many children, if any?"
+D018,"If someone says a child needs a home with both a father and a mother to grow up happily, would you tend to agree or disagree?"
+D019,Do you think that a woman has to have children in order to be fulfilled or is this not necessary?
+D022,"Do you agree or disagree with the following statement? (Read out):     ""Marriage is an out-dated institution"""
+D023,"If a woman wants to have a child as a single parent but she doesn't want to have a stable relationship with a man, do you approve or disapprove?"
+D024,"If someone said that individuals should have the chance to enjoy complete sexual freedom without being restricted, would you tend to agree or disagree?."
+D025,"If you were to have only one child, would you rather have it be a boy or a girl?."
+D026_03,"Do you agree, disagree or neither agree nor disagree with the following statements?:  Duty towards society to have children"
+D026_05,"Do you agree, disagree or neither agree nor disagree with the following statements?:  It is childs duty to take care of ill parent"
+D027,"Here is a list of things which some people think make for a successful marriage or partnership. Please tell me, for each one, whether you think it is very important, rather important or not very important?  Faithfulness"
+D028,"Here is a list of things which some people think make for a successful marriage or partnership. Please tell me, for each one, whether you think it is very important, rather important or not very important?  An adequate income"
+D029,"Here is a list of things which some people think make for a successful marriage. Please tell me, for each one, whether you think it is very important, rather important or not very important for a successful marriage?"
+D030,"Here is a list of things which some people think make for a successful marriage. Please tell me, for each one, whether you think it is very important, rather important or not very important for a successful marriage?"
+D031,"Here is a list of things which some people think make for a successful marriage. Please tell me, for each one, whether you think it is very important, rather important or not very important for a successful marriage?"
+D032,"Here is a list of things which some people think make for a successful marriage or partnership. Please tell me, for each one, whether you think it is very important, rather important or not very important?  Good housing"
+D033,"Here is a list of things which some people think make for a successful marriage. Please tell me, for each one, whether you think it is very important, rather important or not very important for a successful marriage?"
+D034,"Here is a list of things which some people think make for a successful marriage. Please tell me, for each one, whether you think it is very important, rather important or not very important for a successful marriage?"
+D035,"Here is a list of things which some people think make for a successful marriage. Please tell me, for each one, whether you think it is very important, rather important or not very important for a successful marriage?"
+D036,"Here is a list of things which some people think make for a successful marriage. Please tell me, for each one, whether you think it is very important, rather important or not very important for a successful marriage?"
+D037,"Here is a list of things which some people think make for a successful marriage or partnership. Please tell me, for each one, whether you think it is very important, rather important or not very important?  Sharing household chores"
+D038,"Here is a list of things which some people think make for a successful marriage or partnership. Please tell me, for each one, whether you think it is very important, rather important or not very important?  Children"
+D043,"Here is a list of things which some people think make for a successful marriage. Please tell me, for each one, whether you think it is very important, rather important or not very important for a successful marriage:"
+D043_01,"Here is a list of things which some people think make for a successful marriage or partnership. Please tell me, for each one, whether you think it is very important, rather important or not very important?  Having some time for one’s own friends and for personal hobbies/activities"
+D054,"For each of the following statements I read out, can you tell me how much you agree with each. Do you agree strongly, agree, disagree, or disagree strongly?  One of my main goals in life has been to make my parents proud"
+D055,"For each of the following statements I read out, can you tell me how much you agree with each. Do you agree strongly, agree, disagree, or disagree strongly?"
+D056,"For each of the following statements I read out, can you tell me how much you agree with each. Do you agree strongly, agree, disagree, or disagree strongly?"
+D057,"For each of the following statements I read out, can you tell me how much you agree with each. Do you agree strongly, agree, disagree, or disagree strongly?  Being a housewife is just as fulfilling as working for pay"
+D058,"For each of the following statements I read out, can you tell me how much you agree with each. Do you agree strongly, agree, disagree, or disagree strongly?"
+D059,"For each of the following statements I read out, can you tell me how much you agree with each. Do you agree strongly, agree, disagree, or disagree strongly?  On the whole, men make better political leaders than women do"
+D060,"For each of the following statements I read out, can you tell me how much you agree with each. Do you agree strongly, agree, disagree, or disagree strongly?  A university education is more important for a boy than for a girl"
+D061,"For each of the following statements I read out, can you tell me how much you agree with each. Do you agree strongly, agree, disagree, or disagree strongly?  When a mother works for pay, the children suffer"
+D062,"For each of the following statements I read out, can you tell me how strongly you agree or disagree with each. Do you strongly agree, agree, disagree, or strongly disagree?  Women really want home and children"
+D063,"For each of the following statements I read out, can you tell me how much you agree with each. Do you agree strongly, agree, disagree, or disagree strongly?"
+D063_B,"Do you agree, disagree or neither agree nor disagree with the following statements?:"
+D066,"People talk about the changing roles of men and women today. For each of the following statements I read out, can you tell me how much you agree with each?. Do you agree strongly, agree, disagree, or disagree strongly?."
+D066_B,"Do you agree, disagree or neither agree nor disagree with the following statements?  Problem if women have more income than husband"
+D067,"In your opinion, how important are each of the following traits in a woman?."
+D068,"In your opinion, how important are each of the following traits in a woman?."
+D069,"In your opinion, how important are each of the following traits in a woman?."
+D070,"In your opinion, how important are each of the following traits in a woman?."
+D071,"In your opinion, how important are each of the following traits in a woman?."
+D072,"In your opinion, how important are each of the following traits in a woman?."
+D073,"In your opinion, how important are each of the following traits in a woman?."
+D074,"In your opinion, how important are each of the following traits in a woman?."
+D075,"In your opinion, how important are each of the following traits in a woman?."
+D076,"I would like to ask your personal opinion about the following issues related to relationships between men and women.  To what extent do you agree or disagree with men having more than one wife?  Do you strongly agree, agree, disagree, or strongly disagree? INTERVIEWER: This same style should be used in asking both questions."
+D077,"I would like to ask your personal opinion about the following issues related to relationships between men and women.  To what extent do you agree or disagree with men having more than one wife?  Do you strongly agree, agree, disagree, or strongly disagree? INTERVIEWER: This same style should be used in asking both questions."
+D078,"For each of the following statements I read out, can you tell me how strongly you agree or disagree with each. Do you strongly agree, agree, disagree, or strongly disagree?  On the whole, men make better  business executives than women do"
+D079,"People pursue different goals in life. For each of the following goals, can you tell me if you strongly agree, agree, disagree or strongly disagree with it?"
+D080,"People pursue different goals in life. For each of the following goals, can you tell me if you strongly agree, agree, disagree or strongly disagree with it?"
+D081,"Do you agree, disagree or neither agree nor disagree with the following statements?:  Homosexual couples are as good parents as other couples"
+E001,People sometimes talk about what the aims of this country should be for the next ten years. On this card are listed some of the goals which different people would give top priority. Would you please say which one of these you consider the most important?
+E002,People sometimes talk about what the aims of this country should be for the next ten years. On this card are listed some of the goals which different people would give top priority. Would you please say which one of these you consider the second most important?
+E003,"If you had to choose, which one of the things on this card would you say is most important?"
+E004,And which would be the next most important?
+E005,"Here is another list. In your opinion, which one of these is most important?"
+E006,"Here is another list. In your opinion, which one of these is most important? And what would be the next most important?"
+E007,"I will read you some goals which different people consider more or less imporotant for this country. Could you please tell me how important you consider each one of these goals to be: would you say it is very important, important, not very important or not at all important for this country?"
+E008,"I will read you some goals which different people consider more or less imporotant for this country. Could you please tell me how important you consider each one of these goals to be: would you say it is very important, important, not very important or not at all important for this country?"
+E009,"I will read you some goals which different people consider more or less imporotant for this country. Could you please tell me how important you consider each one of these goals to be: would you say it is very important, important, not very important or not at all important for this country?"
+E010,"I will read you some goals which different people consider more or less imporotant for this country. Could you please tell me how important you consider each one of these goals to be: would you say it is very important, important, not very important or not at all important for this country?"
+E012,"Of course, we all hope that there will not be another war, but if it were to come to that, would you be willing to fight for your country?"
+E014,"I'm going to read out a list of various changes in our way of life that might take place in the near future. Please tell me for each one, if it were to happen, whether you think it would be a good thing, a bad thing, or don't you mind?"
+E015,"I'm going to read out a list of various changes in our way of life that might take place in the near future. Please tell me for each one, if it were to happen, whether you think it would be a good thing, a bad thing, or don't you mind?  Less importance placed on work in our lives"
+E016,"I'm going to read out a list of various changes in our way of life that might take place in the near future. Please tell me for each one, if it were to happen, whether you think it would be a good thing, a bad thing, or don't you mind?  More emphasis on the development of  technology"
+E017,"I'm going to read out a list of various changes in our way of life that might take place in the near future. Please tell me for each one, if it were to happen, whether you think it would be a good thing, a bad thing, or don't you mind?"
+E018,"I'm going to read out a list of various changes in our way of life that might take place in the near future. Please tell me for each one, if it were to happen, whether you think it would be a good thing, a bad thing, or don't you mind?  Greater respect for authority"
+E019,"I'm going to read out a list of various changes in our way of life that might take place in the near future. Please tell me for each one, if it were to happen, whether you think it would be a good thing, a bad thing, or don't you mind?"
+E020,"I'm going to read out a list of various changes in our way of life that might take place in the near future. Please tell me for each one, if it were to happen, whether you think it would be a good thing, a bad thing, or don't you mind?"
+E022,"In the long run, do you think the scientific advances we are making will help or harm mankind?"
+E023,How interested would you say you are in politics?
+E025,"Now I'd like you to look at this card. I'm going to read out some different forms of political action that people can take, and I'd like you to tell me, for each one, whether you have actually done any of these things, whether you might do it or would never, under any circumstances, do it.  Signing a petition"
+E025B,Have you or have you not done any of these activities in the last five years? (Read out and code one answer for each action):
+E026,"Now I'd like you to look at this card. I'm going to read out some different forms of political action that people can take, and I'd like you to tell me, for each one, whether you have actually done any of these things, whether you might do it or would never, under any circumstances, do it.  Joining in boycotts"
+E026B,Have you or have you not done any of these activities in the last five years? (Read out and code one answer for each action):
+E027,"Now I'd like you to look at this card. I'm going to read out some different forms of political action that people can take, and I'd like you to tell me, for each one, whether you have actually done any of these things, whether you might do it or would never, under any circumstances, do it.  Attending peaceful demonstrations"
+E028,"Now I'd like you to look at this card. I'm going to read out some different forms of political action that people can take, and I'd like you to tell me, for each one, whether you have actually done any of these things, whether you might do it or would never, under any circumstances, do it.  Joining strikes"
+E028B,"Tell me for each of these activities how often you have done it in the last year  (Only to those who said they ""have done"" the given protest activity):"
+E029,"Now I'd like you to look at this card. I'm going to read out some different forms of political action that people can take, and I'd like you to tell me, for each one, whether you have actually done any of these things, whether you might do it or would never, under any circumstances, do it."
+E032,"Which of these two statements comes closest to your own opinion?  A. I find that both freedom and equality are important. But if I were to choose one or the other, I would consider personal freedom more important, that is, everyone can live in freedom and develop without hinderance  B. Certainly both freedom and equality are important. But if I were to choose one or the other, I would consider equality more important, that is, that nobody is underprivileged and that social class differences are not so strong."
+E033,"In political matters, people talk of ""the left"" and ""the right."" How would you place your views on this scale, generally speaking?"
+E034,On this card are three basic kinds of attitudes concerning the society we live in. Please choose the one which best describes your own opinion.
+E035,"Now I'd like you to tell me your views on various issues. How would you place your views on this scale? 1 means you agree completely with the statement on the left; 10 means you agree completely with the statement on the right; and if your views fall somewhere in between, you can choose any number in between.   Income equality"
+E036,"Now I'd like you to tell me your views on various issues. How would you place your views on this scale? 1 means you agree completely with the statement on the left; 10 means you agree completely with the statement on the right; and if your views fall somewhere in between, you can choose any number in between.   Private vs state ownership of business"
+E037,"Now I'd like you to tell me your views on various issues. How would you place your views on this scale? 1 means you agree completely with the statement on the left; 10 means you agree completely with the statement on the right; and if your views fall somewhere in between, you can choose any number in between.   Government responsibility"
+E038,"Now I'd like you to tell me your views on various issues. How would you place your views on this scale? 1 means you agree completely with the statement on the left; 10 means you agree completely with the statement on the right; and if your views fall somewhere in between, you can choose any number in between. Sentences:"
+E039,"Now I'd like you to tell me your views on various issues. How would you place your views on this scale? 1 means you agree completely with the statement on the left; 10 means you agree completely with the statement on the right; and if your views fall somewhere in between, you can choose any number in between.   Competition good or harmful"
+E040,"Now I'd like you to tell me your views on various issues. How would you place your views on this scale? 1 means you agree completely with the statement on the left; 10 means you agree completely with the statement on the right; and if your views fall somewhere in between, you can chose any number in between.  Hard work brings success"
+E041,"Now I'd like you to tell me your views on various issues. How would you place your views on this scale? 1 means you agree completely with the statement on the left; 10 means you agree completely with the statement on the right; and if your views fall somewhere in between, you can chose any number in between."
+E045,"Now I'd like you to tell me your views on various issues. How would you place your views on this scale? 1 means you agree completely with the statement on the left; 10 means you agree completely with the statement on the right; and if your views fall somewhere in between, you can choose any number in between. Sentences:"
+E046,"Now I'd like you to tell me your views on various issues. How would you place your views on this scale? 1 means you agree completely with the statement on the left; 10 means you agree completely with the statement on the right; and if your views fall somewhere in between, you can choose any number in between. Sentences:"
+E047,"Now I want to ask you some questions about your outlook on life. Each card I show you has two contrasting statements on it. Using the scale listed, could you tell me where you would place your own view? 1 means you agree completely with the statement on the left, 10 means you agree completely with the statement on the right, or you can choose any number in between."
+E048,A variety of characteristics are listed here. Could you take a look at them and select those which apply to you?
+E049,A variety of characteristics are listed here. Could you take a look at them and select those which apply to you?
+E050,A variety of characteristics are listed here. Could you take a look at them and select those which apply to you?
+E051,A variety of characteristics are listed here. Could you take a look at them and select those which apply to you?
+E052,A variety of characteristics are listed here. Could you take a look at them and select those which apply to you?
+E053,A variety of characteristics are listed here. Could you take a look at them and select those which apply to you?
+E054,A variety of characteristics are listed here. Could you take a look at them and select those which apply to you?  I am rarely unsure about how I should behave
+E055,A variety of characteristics are listed here. Could you take a look at them and select those which apply to you?  I often give others advice
+E056,A variety of characteristics are listed here. Could you take a look at them and select those which apply to you?
+E057,"I am going to read out some statements about the government and the economy. For each one, could you tell me how much you agree or disagree? Please use the responses on this card."
+E058,"I am going to read out some statements about the government and the economy. For each one, could you tell me how much you agree or disagree? Please use the responses on this card."
+E059,"I am going to read out some statements about the government and the economy. For each one, could you tell me how much you agree or disagree? Please use the responses on this card."
+E060,"I am going to read out some statements about the government and the economy. For each one, could you tell me how much you agree or disagree? Please use the responses on this card."
+E061,"I am going to read out some statements about the government and the economy. For each one, could you tell me how much you agree or disagree? Please use the responses on this card."
+E062,"Do you think it is better if:  A Goods made in other countries can be imported and sold here if people want to buy them  B There should be stricter limits on selling foreign goods here, to protect the jobs of people in this country"
+E063,"Now I'm going to read you some pairs of contrasting statements. For each pair, do you think that the first statement or the second one best describes the CURRENT SITUATION in this country?.   First statement: An egalitarian society where the gap between rich and poor is small, regardless of achievement   Second statement: A competitive society, where wealth is distributed according to ones' achievement"
+E064,"Now I'm going to read you some pairs of contrasting statements. For each pair, do you think that the first statement or the second one best describes the CURRENT SITUATION in this country?.   First statement: A society with extensive social welfare, but high taxes   Second statement: A society where taxes are low and individuals take responsibility for themselves"
+E065,"Now I'm going to read you some pairs of contrasting statements. For each pair, do you think that the first statement or the second one best describes the CURRENT SITUATION in this country?.   First statement: A society that assures safety and stability through appropriate regulations;   Second statement: A deregulated society where people are responsible for their own actions"
+E066,"And now, could you please tell me which type of society this country you think this country SHOULD aim to be in the future. For each pair of statements, would you prefer being closer to the first or to the second alternative?   First statement: An egalitarian society where the gap between rich and poor is small, regardless of achievement   Second statement: A competitive society, where wealth is distributed according to ones' achievement"
+E067,"And now, could you please tell me which type of society this country you think this country SHOULD aim to be in the future. For each pair of statements, would you prefer being closer to the first or to the second alternative?"
+E068,"And now, could you please tell me which type of society this country you think this country SHOULD aim to be in the future. For each pair of statements, would you prefer being closer to the first or to the second alternative?   First statement: A society that assures safety and stability through appropriate regulations;"
+E069_01,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?   The Churches (mosque, temple etc.)"
+E069_02,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?  The armed forces"
+E069_03,"Please look at this card and tell me, for each item listed, how much confidence you have in them, is it a great deal, quite a lot, not very much or none at all?  How much confidence in: education system"
+E069_04,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?  The press"
+E069_05,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?  Labour Unions"
+E069_06,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?  The police"
+E069_07,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?  Parliament"
+E069_08,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?  The Civil Services"
+E069_09,"Please look at this card and tell me, for each item listed, how much confidence you have in them, is it a great deal, quite a lot, not very much or none at all?  How much confidence in: social security system"
+E069_10,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?  Television"
+E069_11,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?  The government (in your nation’s capital)"
+E069_12,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?  Political Parties"
+E069_13,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?  Major Companies"
+E069_14,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?  Environmental organizations"
+E069_15,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?  Women´s organizations"
+E069_16,"Please look at this card and tell me, for each item listed, how much confidence you have in them, is it a great deal, quite a lot, not very much or none at all?  How much confidence in: health care system"
+E069_17,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?  The courts"
+E069_18,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?  The European Union"
+E069_19,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?  The North Atlantic Treaty Organization (NATO)"
+E069_20,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?  The United Nations"
+E069_21,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?  The Arab League"
+E069_22,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?  The Association of South East Asian Nations -ASEAN"
+E069_23,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?"
+E069_24,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?  The NAFTA"
+E069_25,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?"
+E069_26,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?  The Mercosur"
+E069_27,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?  The SAARC"
+E069_28,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?"
+E069_29,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?  The APEC"
+E069_30,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?  The Free Commerce Treaty (Tratado de libre comercio)"
+E069_31,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?"
+E069_32,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?"
+E069_33,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?"
+E069_34,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?"
+E069_35,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?"
+E069_38,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?"
+E069_39,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?"
+E069_40,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?  Charitable or humanitarian organizations"
+E069_41,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?  Banks"
+E069_42,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?"
+E069_43,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?  CIS"
+E069_44,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?"
+E069_45,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?  The International Monetary Fund (IMF)"
+E069_46,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?"
+E069_47,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?"
+E069_48,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?"
+E069_49,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?"
+E069_51,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?"
+E069_52,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?"
+E069_54,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?  Universities"
+E069_55,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?  The Organization of the Islamic Cooperation"
+E069_56,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?  The Organization of American States (OAE)"
+E069_57,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?"
+E069_58,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?"
+E069_59,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?  Cooperation Council for the Arab states of Gulf (GCC)"
+E069_60,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?"
+E069_61,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?  The World Trade Organization (WTO)"
+E069_62,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?  The World Health Organization (WHO)"
+E069_63,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?  The World Bank"
+E069_64,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?  Elections"
+E069_65,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?  International Criminal Court (ICC)"
+E069_66,"I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all?  UNDP United Nations Development Programme"
+E104,"There are a number of groups and movements looking for public support. For each of the following movements, which I read out, can you tell me whether you approve or disapprove of this movement? (Read out and code one answer for each) Please use the responses on this card!"
+E105,"There are a number of groups and movements looking for public support. For each of the following movements, which I read out, can you tell me whether you approve or disapprove of this movement? (Read out and code one answer for each) Please use the responses on this card!"
+E106,"There are a number of groups and movements looking for public support. For each of the following movements, which I read out, can you tell me whether you approve or disapprove of this movement? (Read out and code one answer for each) Please use the responses on this card!"
+E107,"There are a number of groups and movements looking for public support. For each of the following movements, which I read out, can you tell me whether you approve or disapprove of this movement? (Read out and code one answer for each) Please use the responses on this card!"
+E108,"There are a number of groups and movements looking for public support. For each of the following movements, which I read out, can you tell me whether you approve or disapprove of this movement? (Read out and code one answer for each) Please use the responses on this card!"
+E109,"There are a number of groups and movements looking for public support. For each of the following movements, which I read out, can you tell me whether you approve or disapprove of this movement? (Read out and code one answer for each) Please use the responses on this card!"
+E110,"On the whole are you very satisfied, rather satisfied, not very satisfied or not at all satisfied with the way democracy is developing in our country?"
+E111,"How satisfied are you with how the political system is functioning in your country these days?  On the scale from 1 to 10 below, 1 means not satisfied at all and 10 means completely satisfied."
+E112,People have different views about the system for governing this country. Here is a scale for rating how well things are going: 1 means very bad; 10 means very good. Where on this scale would you put the political system as it was…
+E113,People have different views about the system for governing this country. Here is a scale for rating how well things are going: 1 means very bad; 10 means very good.
+E114,"I'm going to describe various types of political systems and ask what you think about each as a way of governing this country. For each one, would you say it is a very good, fairly good, fairly bad or very bad way of governing this country?  Having a strong leader who does not have to bother with parliament and elections"
+E115,"I'm going to describe various types of political systems and ask what you think about each as a way of governing this country. For each one, would you say it is a very good, fairly good, fairly bad or very bad way of governing this country?  Having experts, not government, make decisions according to what they think is best for the country"
+E116,"I'm going to describe various types of political systems and ask what you think about each as a way of governing this country. For each one, would you say it is a very good, fairly good, fairly bad or very bad way of governing this country?  Having the army rule"
+E117,"I'm going to describe various types of political systems and ask what you think about each as a way of governing this country. For each one, would you say it is a very good, fairly good, fairly bad or very bad way of governing this country?  Having a democratic political system"
+E117B,"I'm going to describe various types of political systems and ask what you think about each as a way of governing this country. For each one, would you say it is a very good, fairly good,  fairly bad or very bad way of governing this country?  Having a system governed by religious law in which there are no political parties or elections"
+E118,"In politics, different parties often hold different views. Which do you think is better?"
+E119,"If you had to choose, which would you say is the most important responsibility of government?"
+E120,"I'm going to read off some things that people sometimes say about a democratic political system. Could you please tell me if you agree strongly, agree, disagree or disagree strongly, after I read each one of them?"
+E121,"I'm going to read off some things that people sometimes say about a democratic political system. Could you please tell me if you agree strongly, agree, disagree or disagree strongly, after I read each one of them?"
+E122,"I'm going to read off some things that people sometimes say about a democratic political system. Could you please tell me if you agree strongly, agree, disagree or disagree strongly, after I read each one of them?"
+E123,"I'm going to read off some things that people sometimes say about a democratic political system. Could you please tell me if you agree strongly, agree, disagree or disagree strongly, after I read each one of them?"
+E124,How much respect is there for individual human rights nowadays in this country?
+E125,"How satisfied are you with the way the people now in national office are handling the country's affairs? Would you say you are very satisfied, fairly satisfied, fairly dissatisfied or very dissatisfied?"
+E127,"Do you personally feel that the creation of a free market economy that is one largely free from state control, is right or wrong for your country's future?."
+E128,"Generally speaking, would you say that this country is run by a few big interests looking out for themselves, or that it is run for the benefit of all the people?"
+E129,"Some people favour, and others are against, having this country provide economic aid to poorer countries. Do you think that this country should provide more or less economic aid to poorer countries?  Would you say we should give …"
+E129A,"In 2003, this country’s government allocated [a tenth of one percent]* of the national income to foreign aid—that is, [$US 38.05]** per person. Do you think this amount is too low, too high, or about right?"
+E129B,How much more do you think this country should contribute?
+E129C,Would you be willing to pay higher taxes in order to increase your country’s foreign aid to poor countries?
+E129D,"Some people favor, and others are against, having this country provide economic aid to poorer countries. Are you personally..."
+E130,"Would you say that today a larger share, about the same share, or a smaller shares of the people in this country are living in poverty than were ten years ago?."
+E131,"Why, in your opinion, are there people in this country who live in need? Here are two opinions: Which comes closest to your view?."
+E132,"In your opinion, do most poor people in this country have a chance of escaping from poverty, or is there very little of chance escaping?."
+E133,"Do you think that what the government is doing for people in poverty in this country is about the right amount, too much, or too little?."
+E134,"In some economically less developed countries, many people are living in poverty. Do you think that what the other countries of the world are doing to help them is about right, too much or too little?."
+E135,"Some people believe that certain kinds of problems could be better handled by the United Nations than by the various national governments. Others think that these problems should be left entirely to the respective national governments; while others think they would be handled best by the national governments working together with co-ordination by the United Nations. I’m going to mention some problems. For each one, would you tell me whether you think that policies in this area should be decided by the national governments, by the United Nations, or by the national governments with UN co-ordination?"
+E136,"Some people believe that certain kinds of problems could be better handled by the United Nations than by the various national governments. Others think that these problems should be left entirely to the respective national governments; while others think they would be handled best by the national governments working together with co-ordination by the United Nations. I’m going to mention some problems. For each one, would you tell me whether you think that policies in this area should be decided by the national governments, by the United Nations, or by the national governments with UN co-ordination?"
+E137,"Some people believe that certain kinds of problems could be better handled by the United Nations than by the various national governments. Others think that these problems should be left entirely to the respective national governments; while others think they would be handled best by the national governments working together with co-ordination by the United Nations. I’m going to mention some problems. For each one, would you tell me whether you think that policies in this area should be decided by the national governments, by the United Nations, or by the national governments with UN co-ordination?"
+E138,"Some people believe that certain kinds of problems could be better handled by the United Nations than by the various national governments. Others think that these problems should be left entirely to the respective national governments; while others think they would be handled best by the national governments working together with co-ordination by the United Nations. I’m going to mention some problems. For each one, would you tell me whether you think that policies in this area should be decided by the national governments, by the United Nations, or by the national governments with UN co-ordination?"
+E139,"Some people believe that certain kinds of problems could be better handled by the United Nations than by the various national governments. Others think that these problems should be left entirely to the respective national governments; while others think they would be handled best by the national governments working together with co-ordination by the United Nations. I’m going to mention some problems. For each one, would you tell me whether you think that policies in this area should be decided by the national governments, by the United Nations, or by the national governments with UN co-ordination?"
+E140,"For the following problems, do you agree that this country can not solve problems by itself, but needs to collaborate with international organizations?"
+E141,"For the following problems, do you agree that this country can not solve problems by itself, but needs to collaborate with international organizations?"
+E142,"For the following problems, do you agree that this country can not solve problems by itself, but needs to collaborate with international organizations?"
+E143,How about people from other countries coming here to work. Which one of the following do you think the government should do?
+E147,"What should a society provide? Please tell me for each statement if it is important or unimportant to you:  Guaranteeing that basic needs are met for all, in terms of food, housing, clothing, education, health"
+E150,How often do you follow politics in the news on television or on the radio or in the daily papers?
+E154,To what extent do you feel concerned about the living conditions of:  People in your neighbourhood
+E155,To what extent do you feel concerned about the living conditions of:  The people of the region you live in
+E156,To what extent do you feel concerned about the living conditions of:   Your fellow countrymen
+E157,To what extent do you feel concerned about the living conditions of:  Europeans
+E158,To what extent do you feel concerned about the living conditions of:  Humankind
+E159,To what extent do you feel concerned about the living conditions of the following groups living in your country:  Elderly people
+E160,To what extent do you feel concerned about the living conditions of the following groups living in your country:  Nemployed people
+E161,To what extent do you feel concerned about the living conditions of the following groups living in your country:  Immigrants
+E162,To what extent do you feel concerned about the living conditions of the following groups living in your country:  Sick and disabled people
+E179WVS,"If there were a national election tomorrow, for which party on this list would you vote?. If ""Don't know"": Which party appeals to you most?  [Each country provides codes to cover all major parties in given society]"
+E180WVS,"If there were a national election tomorrow, for which party on this list would you vote?. If ""Don't know"": Which party appeals to you most?    [Each country provides codes to cover all major parties in given society]"
+E181_01,Which (political) party appeals to you most?
+E182,And is there a party that you would never vote for? (Code one answer):
+E184,"Every country faces a number of regional and international problems, which are the problems you consider very important (very serious), important, somewhat important, less important or not important?."
+E185,"Every country faces a number of regional and international problems, which are the problems you consider very important (very serious), important, somewhat important, less important or not important?."
+E186,"Every country faces a number of regional and international problems, which are the problems you consider very important (very serious), important, somewhat important, less important or not important?."
+E188,Do you ever watch television? If yes: How much time do you usually spend watching television on an average weekday (NOT WEEKENDS)?
+E189,"Do you agree strongly, agree, disagree or disagree strongly with the following statement: 'Television is my most important form of entertainment.'"
+E190,Why are there people in this country who live in need? Here are four possible reasons. Which one reason do you consider to be most important?
+E191,Why are there people in this country who live in need? Here are four possible reasons. Which one reason do you consider to be most important?
+E192,I'd like to ask you some groups that some people feel are threatening to the social political order in this society. Would you please select from the following list the one group or organization that you like least?.
+E193,Do you think that [least liked group] should be allowed to ...
+E194,Do you think that [least liked group] should be allowed to ...
+E195,Do you think that [least liked group] should be allowed to ...
+E196,How widespread do you think bride taking and corruption is in this country?
+E198,Here's one more statement. How strongly do you agree or disagree with it?.
+E203,Do you agree or disagree that the rapid implementation of market economic reforms will have a negative impact on national stability?
+E204,Which of the following statements best expresses your opinion about market economic reforms?
+E205,Do you agree or disagree that [country] political parties serve the social and political needs of the [country] people?
+E206,Do you believe that free and fair elections will reduce terrorism?
+E207,Indicate whether you agree or disagree that [country] should have very close relations with each of the following
+E208,Indicate whether you agree or disagree that Algeria should have very close relations with each of the following
+E209,"If your economic situation get better, would you persist to immigrate abroad"
+E211,Which of the following best expresses your opinion about the problem of Palestine and Israel?
+E212,"As you know, a group of religious fundamentalists hijacked four civilian airliners in September and crashed them into buildings in New York and Washington, D.C. killing several thousand people. What is your opinion of this action?"
+E213,Do you agree or disagree that a married woman should not work outside the home unless forced to do so by economic circumstances?
+E214,Do you agree or disagree that Western democracy is the best political system for Algeria?
+E215,Do you agree or disagree with each of the following statements about terrorism:
+E216,Do you agree or disagree with each of the following statements about terrorism:
+E217,"Now, I would like to read some statements and ask how much you agree or disagree with each of these statements. For these questions, a 1 means that you “completely disagree” and a 10 means that you “completely agree.”  Science and technology are making our lives healthier, easier, and more comfortable"
+E218,"Now, I would like to read some statements and ask how much you agree or disagree with each of these statements. For these questions, a 1 means that you “completely disagree” and a 10 means that you “completely agree.”  Because of science and technology, there will be more opportunities for the next generation"
+E219,"Now, I would like to read some statements and ask how much you agree or disagree with each of these statements. For these questions, a 1 means that you “completely disagree” and a 10 means that you “completely agree.”"
+E220,"Now, I would like to read some statements and ask how much you agree or disagree with each of these statements. For these questions, a 1 means that you “completely disagree” and a 10 means that you “completely agree.”  We depend too much on science and not enough on faith"
+E221B,"Tell me for each of these activities how often you have done it in the last year (Only to those who said they ""have done"" the given protest activity):  ""Attending peaceful demonstrations"""
+E222,"Now I’d like you to look at this card. I’m going to read out some forms of political action that people can take, and I’d like you to tell me, for each one, whether you have done any of these things, whether you might do it or would never under any circumstances do it (read out and code one answer for each action) Other (write in):___________:"
+E222B,Have you or have you not done any of these activities in the last five years? (Read out and code one answer for each action): Other (write in):____________
+E224,Please tell me for each of the following things how essential you think it is as a characteristic of democracy. Use this scale where 1 means “not at all an essential characteristic of democracy” and 10 means it definitely is “an essential characteristic of democracy  Governments tax the rich and subsidize the poor
+E225,Please tell me for each of the following things how essential you think it is as a characteristic of democracy. Use this scale where 1 means “not at all an essential characteristic of democracy” and 10 means it definitely is “an essential characteristic of democracy  Religious authorities interpret the laws
+E226,Please tell me for each of the following things how essential you think it is as a characteristic of democracy. Use this scale where 1 means “not at all an essential characteristic of democracy” and 10 means it definitely is “an essential characteristic of democracy  People choose their leaders in free elections
+E227,Please tell me for each of the following things how essential you think it is as a characteristic of democracy. Use this scale where 1 means “not at all an essential characteristic of democracy” and 10 means it definitely is “an essential characteristic of democracy  People receive state aid for unemployment
+E228,Please tell me for each of the following things how essential you think it is as a characteristic of democracy. Use this scale where 1 means “not at all an essential characteristic of democracy” and 10 means it definitely is “an essential characteristic of democracy  The army takes over when government is incompetent
+E229,Please tell me for each of the following things how essential you think it is as a characteristic of democracy. Use this scale where 1 means “not at all an essential characteristic of democracy” and 10 means it definitely is “an essential characteristic of democracy  Civil rights protect people’s liberty from state oppression
+E230,"Many things may be desirable, but not all of them are essential characteristics of democracy. Please tell me for each of the following things how essential you think it is as a characteristic of democracy. Use this scale where 1 means “not at all an essential characteristic of democracy” and 10 means it definitely is “an essential characteristic of democracy” (read out and code one answer for each):"
+E231,"Many things may be desirable, but not all of them are essential characteristics of democracy. Please tell me for each of the following things how essential you think it is as a characteristic of democracy. Use this scale where 1 means “not at all an essential characteristic of democracy” and 10 means it definitely is “an essential characteristic of democracy” (read out and code one answer for each):"
+E232,"Many things may be desirable, but not all of them are essential characteristics of democracy. Please tell me for each of the following things how essential you think it is as a characteristic of democracy. Use this scale where 1 means “not at all an essential characteristic of democracy” and 10 means it definitely is “an essential characteristic of democracy” (read out and code one answer for each):"
+E233,Please tell me for each of the following things how essential you think it is as a characteristic of democracy. Use this scale where 1 means “not at all an essential characteristic of democracy” and 10 means it definitely is “an essential characteristic of democracy  Women have the same rights as men
+E233A,Please tell me for each of the following things how essential you think it is as a characteristic of democracy. Use this scale where 1 means “not at all an essential characteristic of democracy” and 10 means it definitely is “an essential characteristic of democracy  The state makes people´s incomes equal
+E233B,Please tell me for each of the following things how essential you think it is as a characteristic of democracy. Use this scale where 1 means “not at all an essential characteristic of democracy” and 10 means it definitely is “an essential characteristic of democracy  People obey their rulers
+E234,"All things considered, would you say that the world is better off, or worse off, because of science and technology? Please tell me which comes closest to your view on this scale: 1 means that “the world is a lot worse off,” and 10 means that “the world is a lot better off.”  The world is better off, or worse off, because of science and technology"
+E235,How important is it for you to live in a country that is governed democratically? On this scale where 1 means it is “not at all important” and 10 means “absolutely important” what position would you choose?
+E236,"And how democratically is this country being governed today?. Again using a scale from 1 to 10, where 1 means that it is “not at all democratic” and 10 means that it is “completely democratic,” what position would you choose?"
+E237,Have you heard of the Millennium Development Goals?
+E238,I’m going to read out some  problems. Please indicate which of the following problems you consider the most serious one for the world as a whole?
+E239,And which is the second most serious problem for the world as a whole? (Code one answer under “next most serious for the world”):
+E240,Which of these problems do you consider the most serious one in your own country? (Code one answer under “most serious for own country”):
+E241,And which is the next most serious in your own country? (Code one answer under “next most serious for own country”):
+E242,"I’m going to read out another list of global problems, and goals that world leaders have set to reduce them. Indicate for each of these goals how high a priority your own country’s leaders should give to it, using this card. (Read out and code one answer for each goal):"
+E243,"I’m going to read out another list of global problems, and goals that world leaders have set to reduce them. Indicate for each of these goals how high a priority your own country’s leaders should give to it, using this card. (Read out and code one answer for each goal):"
+E244,"I’m going to read out another list of global problems, and goals that world leaders have set to reduce them. Indicate for each of these goals how high a priority your own country’s leaders should give to it, using this card. (Read out and code one answer for each goal): About eight out of every 100 children who are born around the world, die before their fifth birthday. The goal is to reduce this proportion by two-thirds, by 2015."
+E245,"I’m going to read out another list of global problems, and goals that world leaders have set to reduce them. Indicate for each of these goals how high a priority your own country’s leaders should give to it, using this card. (Read out and code one answer for each goal):"
+E246,"I’m going to read out another list of global problems, and goals that world leaders have set to reduce them. Indicate for each of these goals how high a priority your own country’s leaders should give to it, using this card. (Read out and code one answer for each goal):"
+E247,"Thinking at your own country’s problems, should your country’s leaders give top priority to help reducing poverty in the world or should they give top priority to solve your own country’s problems? Use this scale where 1 means “top priority to help reducing poverty in the world” and 10 means “top priority to solve my own country’s problems.” (Code one answer):"
+E248,"People use different sources to learn what is going on in their country and the world. For each of the following sources, please indicate whether you used it last week or did not use it last week to obtain information (read out and code one answer for each):"
+E248B,"People learn what is going on in this country and the world from various sources. For each of the following sources, please indicate whether you use it to obtain information daily, weekly, monthly, less than monthly or never:  Daily newspaper"
+E249,"People use different sources to learn what is going on in their country and the world. For each of the following sources, please indicate whether you used it last week or did not use it last week to obtain information (read out and code one answer for each):"
+E250,"People use different sources to learn what is going on in their country and the world. For each of the following sources, please indicate whether you used it last week or did not use it last week to obtain information (read out and code one answer for each):"
+E250B,"People learn what is going on in this country and the world from various sources. For each of the following sources, please indicate whether you use it to obtain information daily, weekly, monthly, less than monthly or never:"
+E251,"People use different sources to learn what is going on in their country and the world. For each of the following sources, please indicate whether you used it last week or did not use it last week to obtain information (read out and code one answer for each):"
+E252,"People use different sources to learn what is going on in their country and the world. For each of the following sources, please indicate whether you used it last week or did not use it last week to obtain information (read out and code one answer for each):"
+E253,"People use different sources to learn what is going on in their country and the world. For each of the following sources, please indicate whether you used it last week or did not use it last week to obtain information (read out and code one answer for each): Internet, Email"
+E253B,"People learn what is going on in this country and the world from various sources. For each of the following sources, please indicate whether you use it to obtain information daily, weekly, monthly, less than monthly or never:  Social media (Facebook, Twitter, etc.)"
+E254,"People use different sources to learn what is going on in their country and the world. For each of the following sources, please indicate whether you used it last week or did not use it last week to obtain information (read out and code one answer for each):"
+E254B,"People learn what is going on in this country and the world from various sources. For each of the following sources, please indicate whether you use it to obtain information daily, weekly, monthly, less than monthly or never:  Talk with friends or colleagues"
+E255,"How often, if ever, do you use a personal computer?"
+E256,"Generally speaking, do you think of yourself as a Christian Democrat, a Social Democrat, a supporter of some other party or don’t you have any strong party loyalty?"
+E257,Did you vote in your country’s recent elections to the national parliament?
+E258,"People learn what is going on in this country and the world from various sources. For each of the following sources, please indicate whether you use it to obtain information daily, weekly, monthly, less than monthly or never:"
+E258B,"People learn what is going on in this country and the world from various sources. For each of the following sources, please indicate whether you use it to obtain information daily, weekly, monthly, less than monthly or never:  TV news"
+E259,"People learn what is going on in this country and the world from various sources. For each of the following sources, please indicate whether you use it to obtain information daily, weekly, monthly, less than monthly or never:"
+E259B,"People learn what is going on in this country and the world from various sources. For each of the following sources, please indicate whether you use it to obtain information daily, weekly, monthly, less than monthly or never:  Radio news"
+E260,"People learn what is going on in this country and the world from various sources. For each of the following sources, please indicate whether you use it to obtain information daily, weekly, monthly, less than monthly or never:"
+E260B,"People learn what is going on in this country and the world from various sources. For each of the following sources, please indicate whether you use it to obtain information daily, weekly, monthly, less than monthly or never:  Mobile phone"
+E261,"People learn what is going on in this country and the world from various sources. For each of the following sources, please indicate whether you use it to obtain information daily, weekly, monthly, less than monthly or never:"
+E261B,"People learn what is going on in this country and the world from various sources. For each of the following sources, please indicate whether you use it to obtain information daily, weekly, monthly, less than monthly or never:  Email"
+E262,"People learn what is going on in this country and the world from various sources. For each of the following sources, please indicate whether you use it to obtain information daily, weekly, monthly, less than monthly or never:"
+E262B,"People learn what is going on in this country and the world from various sources. For each of the following sources, please indicate whether you use it to obtain information daily, weekly, monthly, less than monthly or never:  Internet"
+E263,Vote in elections: Local level
+E264,Vote in elections: National level
+E265_01,"In your view, how often do the following things occur in this country’s elections?  Votes are counted fairly"
+E265_02,"In your view, how often do the following things occur in this country’s elections?  Opposition candidates are prevented from running"
+E265_03,"In your view, how often do the following things occur in this country’s elections?  TV news favors the governing party"
+E265_04,"In your view, how often do the following things occur in this country’s elections?  Voters are bribed"
+E265_05,"In your view, how often do the following things occur in this country’s elections?  Journalists provide fair coverage of elections"
+E265_06,"In your view, how often do the following things occur in this country’s elections?  Election officials are fair"
+E265_07,"In your view, how often do the following things occur in this country’s elections?  Rich people buy elections"
+E265_08,"In your view, how often do the following things occur in this country’s elections?  Voters are threatened with  violence at the polls"
+E265_09,"In your view, how often do the following things occur in this country’s elections?  Voters are offered a genuine choice in the elections"
+E265_10,"In your view, how often do the following things occur in this country’s elections?:  Women have equal opportunities to run the office"
+E266,"Do you think that honest elections play an important role in deciding whether you and your family are able to make a good living?. How important would you say this is—very important, fairly important, not very important or not at all important?"
+E267,"Do you think that honest elections are an important factor in whether or not this country develops economically?. How important would you say this is—very important, fairly important, not very important or not at all important?"
+E268,"Now I'd like you to tell me your views on corruption – when people pay a bribe, give a gift or do a favor to other people in order to get the things they need done or the services they need. How would you place your views on corruption in [your country] on a 10-point scale where “1” means “there is no corruption in [my country]” and “10” means “there is abundant corruption in [my country]”. If your views are somewhat mixed, choose the appropriate number in between."
+E269,"Among the following groups of people, how many do you believe are involved in corruption?. Tell me for each group if you believe it is none of them, few of them, most of them or all of them?:  State authorities"
+E270,"Among the following groups of people, how many do you believe are involved in corruption? Tell me for each group if you believe it is none of them, few of them, most of them or all of them?:  Business executives"
+E271,"Among the following groups of people, how many do you believe are involved in corruption? Tell me for each group if you believe it is none of them, few of them, most of them or all of them?:  Local authorities"
+E272,"Among the following groups of people, how many do you believe are involved in corruption? Tell me for each group if you believe it is none of them, few of them, most of them or all of them?:  Civil service providers (police, judiciary, civil servants, doctors, teachers)"
+E273,"Among the following groups of people, how many do you believe are involved in corruption? Tell me for each group if you believe it is none of them, few of them, most of them or all of them?:  Journalists and media"
+E274,"We want to know about your experience with local officials and service providers, like police officers, lawyers, doctors, teachers and civil servants in your community. How often do you think ordinary people like yourself or people from your neighbourhood have to pay a bribe, give a gift or do a favor to these people in order to get the services you need?. Does it happen never, rarely, frequently or always?"
+E275,"Can you tell me how strongly you agree or disagree with the following statement:  On the whole, women are less corrupt than men"
+E276,"How high is the risk in this country to be held accountable for giving or receiving a bribe, gift or favour in return for public service? To indicate your opinion, use a 10-point scale where “1” means “no risk at all” and “10” means “very high risk”."
+E277,"Comparing your standard of living with your parents’ standard of living when they were about your age, would you say that you are better off, worse off or about the same?"
+E278,"Nowadays there’s a lot of talk about international organizations. People sometimes say that international organizations should prioritize improving people’s lives, even if this may imply that decisions are not made democratically. What do you think should international organizations prioritize, being effective or being democratic?. If your views are somewhat mixed, choose the appropriate number in between."
+E289,"What about these forms of political action and social activism that people can take?. Please, tell me for each of them if you have done any of these things, whether you might do it or would never under any circumstances do it:  Encouraging others to vote"
+E290,"Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card.   Political violence"
+E279,"Here are some questions about international organizations. Many people don't know the answers to these questions, but if you do please tell me.   Five countries have permanent seats on the Security Council of the United Nations. Which ones of the following is not a member?"
+E280,"Here are some questions about international organizations. Many people don't know the answers to these questions, but if you do please tell me.  Where are the headquarters of the International Monetary Fund (IMF) located?"
+E281,"Here are some questions about international organizations. Many people don't know the answers to these questions, but if you do please tell me.  Which of the following problems does the organization Amnesty International deal with?"
+E282,"Now I’d like you to look at this card. I’m going to read out some other forms of political action that people can take using Internet and social media tools like Facebook, Twitter etc., and I’d like you to tell me, for each one, whether you have done any of these things, whether you might do it or would never under any circumstances do it:  Searching information about politics and political events"
+E283,"Now I’d like you to look at this card. I’m going to read out some other forms of political action that people can take using Internet and social media tools like Facebook, Twitter etc., and I’d like you to tell me, for each one, whether you have done any of these things, whether you might do it or would never under any circumstances do it:  Signing an electronic petition"
+E284,"Now I’d like you to look at this card. I’m going to read out some other forms of political action that people can take using Internet and social media tools like Facebook, Twitter etc., and I’d like you to tell me, for each one, whether you have done any of these things, whether you might do it or would never under any circumstances do it:  Encouraging other people to take any form of political action"
+E285,"Now I’d like you to look at this card. I’m going to read out some other forms of political action that people can take using Internet and social media tools like Facebook, Twitter etc., and I’d like you to tell me, for each one, whether you have done any of these things, whether you might do it or would never under any circumstances do it:  Organizing political activities, events, protests"
+E286,"What about these forms of political action and social activism that people can take?. Please, tell me for each of them if you have done any of these things, whether you might do it or would never under any circumstances do it:  Donating to a group or campaign"
+E287,"What about these forms of political action and social activism that people can take?. Please, tell me for each of them if you have done any of these things, whether you might do it or would never under any circumstances do it:  Contacting a government official"
+E288,"What about these forms of political action and social activism that people can take?. Please, tell me for each of them if you have done any of these things, whether you might do it or would never under any circumstances do it:  Encouraging others to take action about political issues"
+E291,How much would you say the political system in your country allows people like you to have a say in what the government does?
+F001,"How often, if at all, do you think about the meaning and purpose of life? (Read out in reverse order for alternate contacts)"
+F003,Do you ever think about death? Would you say ...
+F004,I am going to read out a list of statements about the meaning of life. Please indicate whether you agree or disagree with each of them. (Read out in reverse order for alternate contacts)
+F005,I am going to read out a list of statements about the meaning of life. Please indicate whether you agree or disagree with each of them. (Read out in reverse order for alternate contacts)
+F006,I am going to read out a list of statements about the meaning of life. Please indicate whether you agree or disagree with each of them. (Read out in reverse order for alternate contacts)
+F007,I am going to read out a list of statements about the meaning of life. Please indicate whether you agree or disagree with each of them. (Read out in reverse order for alternate contacts)
+F008,I am going to read out a list of statements about the meaning of life. Please indicate whether you agree or disagree with each of them. (Read out in reverse order for alternate contacts)
+F009,"I am going to read out a list of statements about the meaning of life. Please indicate whether you agree or disagree with each of them. (Read out in reverse order for alternate contacts)  In my opinion, sorrow and suffering only have meaning if you believ"
+F010,I am going to read out a list of statements about the meaning of life. Please indicate whether you agree or disagree with each of them. (Read out in reverse order for alternate contacts)
+F022,Here are two statements which people sometimes make when discussing good and evil. Which one comes closest to your own point of view?
+F024,Do you belong to a religious denomination?
+F025,"Do you belong to a religion or religious denomination?. If yes, which one?"
+F025_01,Which one?
+F027,Which one is your former religious denomination?
+F028,"Apart from weddings, funerals and christenings, about how often do you attend religious services these days?"
+F028B,"Apart from weddings and funerals, about how often do you pray?"
+F029,Were you brought up religiously at home?
+F030,"Apart from weddings, funerals and christenings, about how often did you attend religious services when you were 12 years old?"
+F031,Do you personally think it is important to hold a religious service for any of the following events?
+F032,Do you personally think it is important to hold a religious service for any of the following events?
+F033,Do you personally think it is important to hold a religious service for any of the following events?
+F034,"Independently of whether you go to church or not, would you say you are…"
+F035,"Generally speaking, do you think that the churches in your country are giving adequate answers to ...((Read out and code one answer for each))"
+F036,"Generally speaking, do you think that the churches in your country are giving adequate answers to ...((Read out and code one answer for each))"
+F037,"Generally speaking, do you think that the churches in your country are giving adequate answers to ...((Read out and code one answer for each))"
+F038,"Generally speaking, do you think that the churches in your country are giving adequate answers to ...((Read out and code one answer for each))"
+F040,Do you think it is proper for churches to speak out on:
+F041,Do you think it is proper for churches to speak out on:
+F042,Do you think it is proper for churches to speak out on:
+F043,Do you think it is proper for churches to speak out on:
+F044,Do you think it is proper for churches to speak out on:
+F045,Do you think it is proper for churches to speak out on:
+F046,Do you think it is proper for churches to speak out on:
+F047,Do you think it is proper for churches to speak out on:
+F048,Do you think it is proper for churches to speak out on:
+F049,Do you think it is proper for churches to speak out on:
+F050,"In which of the following things do you believe, if you believe in any?  God"
+F051,"In which of the following things do you believe, if you believe in any?  Life after death"
+F052,"Which, if any, of the following do you believe in? ((Read out and code one answer for each))"
+F053,"In which of the following things do you believe, if you believe in any?  Hell"
+F054,"In which of the following things do you believe, if you believe in any?  Heaven"
+F055,"Which, if any, of the following do you believe in? ((Read out and code one answer for each))"
+F057,"Do you believe in re-incarnation, that is, that we had past lives and will be born into this world again?"
+F059,"Which, if any, of the following do you believe in?."
+F060,"Which, if any, of the following do you believe in?."
+F062,Which of these statements comes closest to your beliefs?
+F063,How important is God in your life?. Please use this scale to indicate. 10 means “very important” and 1 means “not at all important.”:
+F064,Do you find that you get comfort and strength from religion?
+F065,"Do you take some moments of prayer, meditation or contemplation or something like that?"
+F066,How often do you pray to God outside of religious services? Would you say ...
+F067,How often do you pray to God outside of religious services? Would you say...
+F102,How much do you agree or disagree with each of the following statement:
+F103,How much do you agree or disagree with each of the following statement:
+F104,How much do you agree or disagree with each of the following statement:
+F105,How much do you agree or disagree with each of the following statement:
+F108,How much do you agree or disagree with each of the following statement:
+F109,How much do you agree or disagree with each of the following statement:
+F110,How much do you agree or disagree with each of the following statement:
+F111,How much do you agree or disagree with each of the following statement:
+F114A,"Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card.   Claiming government benefits to which you are not entitled"
+F114E,"Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card.   Terrorism as a political, ideological or religious mean"
+F114B,"Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card.   Stealing property"
+F114C,"Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card.   Parents beating children"
+F114D,"Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card.   Violence against other people"
+F115,"Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card.   Avoiding a fare on public transport"
+F116,"Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card.   Cheating on taxes if you have a chance"
+F117,"Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card.   Someone accepting a bribe in the course of their duties"
+F118,"Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card.   Homosexuality"
+F119,"Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card.   Prostitution"
+F120,"Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card.   Abortion"
+F121,"Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card.   Divorce"
+F122,"Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card.   Euthanasia"
+F123,"Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card.   Suicide"
+F124,"Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card. (Read out statements. Code one answer for each statement)."
+F125,"Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card. (Read out statements. Code one answer for each statement)."
+F126,"Please tell me for each of the following whether you think it can always be justified, never be justified, or something in between, using this card.  Do you justify: taking soft drugs"
+F127,"Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card. (Read out statements. Code one answer for each statement)."
+F128,"Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card. (Read out statements. Code one answer for each statement)."
+F129,"Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card. (Read out statements. Code one answer for each statement)."
+F130,"Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card. (Read out statements. Code one answer for each statement)."
+F132,"Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card.   Having casual sex"
+F135,"Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card. (Read out statements. Code one answer for each statement)."
+F135A,"Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card.   Sex before marriage"
+F136,"Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card. (Read out statements. Code one answer for each statement).  Political assassinations"
+F139,"Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card."
+F140,"Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card.  Keeping money that you have found"
+F141,"Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card."
+F142,"Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card."
+F143,"Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card."
+F144,"Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card."
+F144_01,"Please tell me for each of the following whether you think it can always be justified, never be justified, or something in between, using this card.  Do you justify: artificial insemination or in-vitro fertilization"
+F144_02,"Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card.   Death penalty"
+F164,"Today as in the past, Muslim scholars and jurists sometimes disagree about the proper interpretation of Islam in response to present-day issues. For each of the statements listed below, would you please indicate whether you agree strongly, agree, disagree, or disagree strongly with the interpretation of Islam that is presented?  Islam requires woman to dress modestly but does not require cover face with veil"
+F165,"Today as in the past, Muslim scholars and jurists sometimes disagree about the proper interpretation of Islam in response to present-day issues. For each of the statements listed below, would you please indicate whether you agree strongly, agree, disagree, or disagree strongly with the interpretation of Islam that is presented?"
+F166,"Today as in the past, Muslim scholars and jurists sometimes disagree about the proper interpretation of Islam in response to present-day issues. For each of the statements listed below, would you please indicate whether you agree strongly, agree, disagree, or disagree strongly with the interpretation of Islam that is presented?  By requiring that a man treat all of his wives equally, the true intent of Islam is to prohibit a man from taking more than one wife"
+F167,"Today as in the past, Muslim scholars and jurists sometimes disagree about the proper interpretation of Islam in response to present-day issues. For each of the statements listed below, would you please indicate whether you agree strongly, agree, disagree, or disagree strongly with the interpretation of Islam that is presented?  Monarchy is a form of government that is compatible with Islam"
+F168,"Today as in the past, Muslim scholars and jurists sometimes disagree about the proper interpretation of Islam in response to present-day issues. For each of the statements listed below, would you please indicate whether you agree strongly, agree, disagree, or disagree strongly with the interpretation of Islam that is presented?  Democracy is a Western form of government that is not compatible with Islam"
+F169,"Today as in the past, Muslim scholars and jurists sometimes disagree about the proper interpretation of Islam in response to present-day issues. For each of the statements listed below, would you please indicate whether you agree strongly, agree, disagree, or disagree strongly with the interpretation of Islam that is presented?  Nationalism is incompatible with Islam because Islam requires that Muslims be united in a single political community (the ummah) rather than be citizens of different states and loyal to different governments."
+F170,"Today as in the past, Muslim scholars and jurists sometimes disagree about the proper interpretation of Islam in response to present-day issues. For each of the statements listed below, would you please indicate whether you agree strongly, agree, disagree, or disagree strongly with the interpretation of Islam that is presented?  If a Palestinian state is established and makes peace with Israel, Islam would not oppose the the existence of Israel"
+F171,"Today as in the past, Muslim scholars and jurists sometimes disagree about the proper interpretation of Islam in response to present-day issues. For each of the statements listed below, would you please indicate whether you agree strongly, agree, disagree, or disagree strongly with the interpretation of Islam that is presented?  If a country pursues policies that are harmful to Muslims, Islam permits the killing of civilians (including women and children) in that country"
+F172,"Today as in the past, Muslim scholars and jurists sometimes disagree about the proper interpretation of Islam in response to present-day issues. For each of the statements listed below, would you please indicate whether you agree strongly, agree, disagree, or disagree strongly with the interpretation of Islam that is presented?  A country that is truly Islamic should not have a parliament with the right to pass laws (or do anything more than advice the rulers)"
+F173,"Today as in the past, Muslim scholars and jurists sometimes disagree about the proper interpretation of Islam in response to present-day issues. For each of the statements listed below, would you please indicate whether you agree strongly, agree, disagree, or disagree strongly with the interpretation of Islam that is presented?  Islam requires that in a Muslim country the political rights of non-Muslims should be inferior to those of Muslims"
+F174,"Today as in the past, Muslim scholars and jurists sometimes disagree about the proper interpretation of Islam in response to present-day issues. For each of the statements listed below, would you please indicate whether you agree strongly, agree, disagree, or disagree strongly with the interpretation of Islam that is presented?  Islam requires that a country with a majority of Muslims be governed by men of Islamic learning"
+F175,Do you agree or disagree that religions limit democratic processes?
+F176,Do you agree or disagree with the following sentence?
+F177,Do you agree or disagree with the following sentence?
+F178,Do you agree or disagree with the following sentence?
+F179,Exposure to the culture of the U.S. and other Western countries harmful effect on our country.
+F186,Do you agree or disagree with each of the following statements about terrorism:
+F187,Do you agree or disagree with each of the following statements about terrorism:
+F188,Which is more important as a basis for marriage:  parents´ approval or love
+F189,"When you were growing up, did your father or mother have more influence in the affairs of the house"
+F190,How frequently do you perform the five prescribed prayers
+F191,How frequently do you perform the five prescribed prayers?
+F192,"If you feel sad and want to talk to someone, to whom do you usually turn to"
+F193,Civil marriage is very important because it helps maintain the family
+F194,How important: daily prayer
+F195,How important: building a prosperous society
+F196,How important: forming a happy secure family
+F197,How important: building a successful professional future
+F198,"Some people believe that individuals can decide their own destiny, while others think that it is impossible to escape a predetermined fate. Please tell me which comes closest to your view on this scale on which 1 means “everything in life is determined by fate,” and 10 means that “people shape their fate themselves.”"
+F199,"Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card.   For a man to beat his wife"
+F200,With which one of the following statements do you agree most? The meaning of religion is…
+F201,And with which of the following statements do you agree most? The meaning of religion is…
+F202,"Please tell us if you strongly agree, agree, disagree, or strongly disagree with the following statements:  Whenever science and religion conflict, religion is always right"
+F203,"Please tell us if you strongly agree, agree, disagree, or strongly disagree with the following statements:  The only acceptable religion  is my religion"
+F204,"Please tell us if you strongly agree, agree, disagree, or strongly disagree with the following statements:"
+F205,"Please tell us if you strongly agree, agree, disagree, or strongly disagree with the following statements:"
+F206,How much do you agree or disagree with the statement that nowadays one often has trouble deciding which moral rules are the right ones to follow?
+G001,To which of these geographical groups would you say you belong first of all?. And the next? And which do you belong to least of all?
+G001CS,#N/A
+G002,To which of these geographical groups would you say you belong first of all?. And the next? And which do you belong to least of all?
+G002CS,#N/A
+G003CS,To which of these geographical groups would you say you belong first of all?. And the next? And which do you belong to least of all?
+G005,Are you a citizen of [Country]?
+G006,How proud are you to be of nationality of this country?
+G007_01,"Using the responses on this card, could you tell me how much you trust [Nationality] people in general?"
+G007_02,"I now want to ask you how much you trust various groups of people: Using the responses on this card, could you tell me how much you trust... Read out each and code an answer for each"
+G007_03,"I now want to ask you how much you trust various groups of people: Using the responses on this card, could you tell me how much you trust... Read out each and code an answer for each"
+G007_04,"I now want to ask you how much you trust various groups of people: Using the responses on this card, could you tell me how much you trust... Read out each and code an answer for each"
+G007_05,"I now want to ask you how much you trust various groups of people: Using the responses on this card, could you tell me how much you trust... Read out each and code an answer for each"
+G007_06,"I now want to ask you how much you trust various groups of people: Using the responses on this card, could you tell me how much you trust... Read out each and code an answer for each"
+G007_07,"I now want to ask you how much you trust various groups of people: Using the responses on this card, could you tell me how much you trust... Read out each and code an answer for each"
+G007_08,"I now want to ask you how much you trust various groups of people: Using the responses on this card, could you tell me how much you trust... Read out each and code an answer for each"
+G007_09,"I now want to ask you how much you trust various groups of people: Using the responses on this card, could you tell me how much you trust... Read out each and code an answer for each"
+G007_10,"I now want to ask you how much you trust various groups of people: Using the responses on this card, could you tell me how much you trust... Read out each and code an answer for each"
+G007_11,"I now want to ask you how much you trust various groups of people: Using the responses on this card, could you tell me how much you trust... Read out each and code an answer for each"
+G007_12,"I now want to ask you how much you trust various groups of people: Using the responses on this card, could you tell me how much you trust... Read out each and code an answer for each"
+G007_13,"I now want to ask you how much you trust various groups of people: Using the responses on this card, could you tell me how much you trust... Read out each and code an answer for each"
+G007_16,"I now want to ask you how much you trust various groups of people: Using the responses on this card, could you tell me how much you trust... Read out each and code an answer for each"
+G007_17,"I now want to ask you how much you trust various groups of people: Using the responses on this card, could you tell me how much you trust... Read out each and code an answer for each"
+G007_18,"I now want to ask you how much you trust various groups of people: Using the responses on this card, could you tell me how much you trust... Read out each and code an answer for each"
+G007_18_B,"I ‘d like to ask you how much you trust people from various groups. Could you tell me for each whether you trust people from this group completely, somewhat, not very much or not at all?  Your neighborhood"
+G007_19,"I now want to ask you how much you trust various groups of people: Using the responses on this card, could you tell me how much you trust... Read out each and code an answer for each"
+G007_20,"I now want to ask you how much you trust various groups of people: Using the responses on this card, could you tell me how much you trust... Read out each and code an answer for each"
+G007_21,"I now want to ask you how much you trust various groups of people: Using the responses on this card, could you tell me how much you trust... Read out each and code an answer for each"
+G007_22,"I now want to ask you how much you trust various groups of people: Using the responses on this card, could you tell me how much you trust... Read out each and code an answer for each"
+G007_28,"I now want to ask you how much you trust various groups of people: Using the responses on this card, could you tell me how much you trust... Read out each and code an answer for each"
+G007_30,"I now want to ask you how much you trust various groups of people: Using the responses on this card, could you tell me how much you trust... Read out each and code an answer for each"
+G007_31,"I now want to ask you how much you trust various groups of people: Using the responses on this card, could you tell me how much you trust... Read out each and code an answer for each"
+G007_32,"I now want to ask you how much you trust various groups of people: Using the responses on this card, could you tell me how much you trust... Read out each and code an answer for each"
+G007_33_B,"I ‘d like to ask you how much you trust people from various groups. Could you tell me for each whether you trust people from this group completely, somewhat, not very much or not at all?  People you know personally"
+G007_34_B,"I ‘d like to ask you how much you trust people from various groups. Could you tell me for each whether you trust people from this group completely, somewhat, not very much or not at all?  People you meet for the first time"
+G007_35_B,"I ‘d like to ask you how much you trust people from various groups. Could you tell me for each whether you trust people from this group completely, somewhat, not very much or not at all?  People of another religion"
+G007_36_B,"I ‘d like to ask you how much you trust people from various groups. Could you tell me for each whether you trust people from this group completely, somewhat, not very much or not at all?  People of another nationality"
+G007_37,"I now want to ask you how much you trust various groups of people: Using the responses on this card, could you tell me how much you trust... Read out each and code an answer for each"
+G007_39,"I now want to ask you how much you trust various groups of people: Using the responses on this card, could you tell me how much you trust... Read out each and code an answer for each"
+G007_40,"I now want to ask you how much you trust various groups of people: Using the responses on this card, could you tell me how much you trust... Read out each and code an answer for each"
+G007_41,"I now want to ask you how much you trust various groups of people: Using the responses on this card, could you tell me how much you trust... Read out each and code an answer for each"
+G007_42,"I now want to ask you how much you trust various groups of people: Using the responses on this card, could you tell me how much you trust... Read out each and code an answer for each"
+G007_43,"I now want to ask you how much you trust various groups of people: Using the responses on this card, could you tell me how much you trust... Read out each and code an answer for each"
+G007_44,"I now want to ask you how much you trust various groups of people: Using the responses on this card, could you tell me how much you trust... Read out each and code an answer for each"
+G007_45,"I now want to ask you how much you trust various groups of people: Using the responses on this card, could you tell me how much you trust... Read out each and code an answer for each"
+G007_48,"I now want to ask you how much you trust various groups of people: Using the responses on this card, could you tell me how much you trust... Read out each and code an answer for each"
+G007_49,"I now want to ask you how much you trust various groups of people: Using the responses on this card, could you tell me how much you trust... Read out each and code an answer for each"
+G007_50,"I now want to ask you how much you trust various groups of people: Using the responses on this card, could you tell me how much you trust... Read out each and code an answer for each"
+G007_51,"I now want to ask you how much you trust various groups of people: Using the responses on this card, could you tell me how much you trust... Read out each and code an answer for each"
+G007_52,"I now want to ask you how much you trust various groups of people: Using the responses on this card, could you tell me how much you trust... Read out each and code an answer for each"
+G007_53,"I now want to ask you how much you trust various groups of people: Using the responses on this card, could you tell me how much you trust... Read out each and code an answer for each"
+G007_54,"I now want to ask you how much you trust various groups of people: Using the responses on this card, could you tell me how much you trust... Read out each and code an answer for each"
+G007_55,"I now want to ask you how much you trust various groups of people: Using the responses on this card, could you tell me how much you trust... Read out each and code an answer for each"
+G007_56,"I now want to ask you how much you trust various groups of people: Using the responses on this card, could you tell me how much you trust... Read out each and code an answer for each"
+G007_57,"I now want to ask you how much you trust various groups of people: Using the responses on this card, could you tell me how much you trust... Read out each and code an answer for each"
+G007_58,"I now want to ask you how much you trust various groups of people: Using the responses on this card, could you tell me how much you trust... Read out each and code an answer for each"
+G007_59,"I now want to ask you how much you trust various groups of people: Using the responses on this card, could you tell me how much you trust... Read out each and code an answer for each"
+G007_60,"I now want to ask you how much you trust various groups of people: Using the responses on this card, could you tell me how much you trust... Read out each and code an answer for each"
+G007_61,"I ‘d like to ask you how much you trust people from various groups. Could you tell me for each whether you trust people from this group completely, somewhat, not very much or not at all? (Read out and code one answer for each):"
+G007_62,"I ‘d like to ask you how much you trust people from various groups. Could you tell me for each whether you trust people from this group completely, somewhat, not very much or not at all? (Read out and code one answer for each):"
+G007_63,"I ‘d like to ask you how much you trust people from various groups. Could you tell me for each whether you trust people from this group completely, somewhat, not very much or not at all? (Read out and code one answer for each):"
+G007_64,"I ‘d like to ask you how much you trust people from various groups. Could you tell me for each whether you trust people from this group completely, somewhat, not very much or not at all? (Read out and code one answer for each):"
+G007_65,"I ‘d like to ask you how much you trust people from various groups. Could you tell me for each whether you trust people from this group completely, somewhat, not very much or not at all? (Read out and code one answer for each):"
+G007_66,"I ‘d like to ask you how much you trust people from various groups. Could you tell me for each whether you trust people from this group completely, somewhat, not very much or not at all? (Read out and code one answer for each):"
+G007_67,"I ‘d like to ask you how much you trust people from various groups. Could you tell me for each whether you trust people from this group completely, somewhat, not very much or not at all? (Read out and code one answer for each):"
+G015,Which of the following best describes you? Just call out one of the letters on this card.
+G015B,Which of the following best describes you? Just call out one of the letters on this card.
+G016,What language do you normally speak at home?
+G017,Where you born in [COUNTRY]?
+G018,In what year did you come to [COUNTRY]?
+G019,"People have different views about themselves and how they relate to the world. Using this card, would you tell me how strongly you agree or disagree with each of the following statements about how you see yourself?"
+G020,"People have different views about themselves and how they relate to the world. Using this card, would you tell me how strongly you agree or disagree with each of the following statements about how you see yourself?  Your [county, region, district]"
+G021,"People have different views about themselves and how they relate to the world. Using this card, would you tell me how strongly you agree or disagree with each of the following statements about how you see yourself?  [Country]"
+G022A,"People have different views about themselves and how they relate to the world. Using this card, would you tell me how strongly you agree or disagree with each of the following statements about how you see yourself?"
+G022B,"People have different views about themselves and how they relate to the world. Using this card, would you tell me how strongly you agree or disagree with each of the following statements about how you see yourself?"
+G022C,"People have different views about themselves and how they relate to the world. Using this card, would you tell me how strongly you agree or disagree with each of the following statements about how you see yourself?"
+G022D,"People have different views about themselves and how they relate to the world. Using this card, would you tell me how strongly you agree or disagree with each of the following statements about how you see yourself?"
+G022E,"People have different views about themselves and how they relate to the world. Using this card, would you tell me how strongly you agree or disagree with each of the following statements about how you see yourself?"
+G022F,"People have different views about themselves and how they relate to the world. Using this card, would you tell me how strongly you agree or disagree with each of the following statements about how you see yourself?"
+G022G,"People have different views about themselves and how they relate to the world. Using this card, would you tell me how strongly you agree or disagree with each of the following statements about how you see yourself? (Read out and code one answer for each statement):"
+G022H,"People have different views about themselves and how they relate to the world. Using this card, would you tell me how strongly you agree or disagree with each of the following statements about how you see yourself? (Read out and code one answer for each statement):"
+G022I,"People have different views about themselves and how they relate to the world. Using this card, would you tell me how strongly you agree or disagree with each of the following statements about how you see yourself?"
+G022J,"People have different views about themselves and how they relate to the world. Using this card, would you tell me how strongly you agree or disagree with each of the following statements about how you see yourself?"
+G022K,"People have different views about themselves and how they relate to the world. Using this card, would you tell me how strongly you agree or disagree with each of the following statements about how you see yourself? (Read out and code one answer for each statement):"
+G022L,"People have different views about themselves and how they relate to the world. Using this card, would you tell me how strongly you agree or disagree with each of the following statements about how you see yourself?"
+G022M,"People have different views about themselves and how they relate to the world. Using this card, would you tell me how strongly you agree or disagree with each of the following statements about how you see yourself?"
+G022N,"People have different views about themselves and how they relate to the world. Using this card, would you tell me how strongly you agree or disagree with each of the following statements about how you see yourself?"
+G022O,"People have different views about themselves and how they relate to the world. Using this card, would you tell me how strongly you agree or disagree with each of the following statements about how you see yourself?"
+G022P,"People have different views about themselves and how they relate to the world. Using this card, would you tell me how strongly you agree or disagree with each of the following statements about how you see yourself?"
+G022Q,"People have different views about themselves and how they relate to the world. Using this card, would you tell me how strongly you agree or disagree with each of the following statements about how you see yourself?"
+G022R,I see myself as part of the Cooperation Council for the Arab states of Gulf (GCC)
+G022S,I see myself as part of  [SAARC]
+G023,"People have different views about themselves and how they relate to the world. Using this card, would you tell me how strongly you agree or disagree with each of the following statements about how you see yourself?"
+G024,On this card are listed some things people have said make them proud of your country. Do any of these things make you proud of your country?...Is there anything else?...And is there anything else?
+G025,On this card are listed some things people have said make them proud of your country. Do any of these things make you proud of your country?...Is there anything else?...And is there anything else?
+G026,Is your mother immigrant to this country or not?
+G026_01,Mother's Country of origin
+G027,Is your father immigrant to this country or not?
+G027_01,Father's Country of origin
+G027A,Were you born in this country or are you an immigrant?
+G027B,Are you a citizen of this country?
+G028,"In your opinion, how important should the following be as requirements for somebody seeking citizenship of your country? Specify for each requirement if you consider it as very important, rather important or not important (read out and code one answer for each requirement):"
+G029,"In your opinion, how important should the following be as requirements for somebody seeking citizenship of your country? Specify for each requirement if you consider it as very important, rather important or not important (read out and code one answer for each requirement):"
+G030,"In your opinion, how important should the following be as requirements for somebody seeking citizenship of your country? Specify for each requirement if you consider it as very important, rather important or not important (read out and code one answer for each requirement):"
+G031,"In your opinion, how important should the following be as requirements for somebody seeking citizenship of your country? Specify for each requirement if you consider it as very important, rather important or not important (read out and code one answer for each requirement):"
+G032,"Turning to the question of ethnic diversity, with which of the following views do you agree? Please use this scale to indicate your position (code one number):"
+G033,Some people say the following things are important for being truly [NATIONALITY]. Others say they are not important. How important do you think each of the following is?
+G034,Some people say the following things are important for being truly [NATIONALITY]. Others say they are not important. How important do you think each of the following is?
+G035,Some people say the following things are important for being truly [NATIONALITY]. Others say they are not important. How important do you think each of the following is?
+G036,Some people say the following things are important for being truly [NATIONALITY]. Others say they are not important. How important do you think each of the following is?
+G038,Please look at the following statements and indicate where you would place your views on this scale?
+G040,Please look at the following statements and indicate where you would place your views on this scale?
+G041,Please look at the following statements and indicate where you would place your views on this scale?
+G043,Please look at the following statements and indicate where you would place your views on this scale?
+G052,Now we would like to know your opinion about the people from other countries who come to live in [your country] - the immigrants. How would you evaluate the impact of these people on the development of [your country]?
+G053,"From your point of view, what have been the effects of immigrants on the development of [your country]?:  Fill useful jobs in the workforce"
+G054,"From your point of view, what have been the effects of immigrants on the development of [your country]?:  Strengthen cultural diversity"
+G055,"From your point of view, what have been the effects of immigrants on the development of [your country]?:  Increase the crime rate"
+G056,"From your point of view, what have been the effects of immigrants on the development of [your country]?:  Give asylum to political refugees"
+G057,"From your point of view, what have been the effects of immigrants on the development of [your country]?:  Increase the risks of terrorism"
+G058,"From your point of view, what have been the effects of immigrants on the development of [your country]?:  Help poor people establish new lives"
+G059,"From your point of view, what have been the effects of immigrants on the development of [your country]?:  Increase unemployment"
+G060,"From your point of view, what have been the effects of immigrants on the development of [your country]?:  Lead to social conflict"
+G061,How about people from other countries coming here to work.  Which one of the following do you think the government should do?
+G062,"People have different views about themselves and how they relate to the world. Using this card, would you tell me how close do you feel to…?:  [Continent; e.g. Europe, Asia etc.]"
+G063,"People have different views about themselves and how they relate to the world. Using this card, would you tell me how strongly you agree or disagree with each of the following statements about how you see yourself?  World"
+G255,"People have different views about themselves and how they relate to the world. Using this card, would you tell me how close do you feel to…?:  Your [village, town or city]"
+H001,Could you tell me how secure do you feel these days in your neighborhood?
+H002_01,How frequently do the following things occur in your neighborhood?  Robberies
+H002_02,How frequently do the following things occur in your neighborhood?  Alcohol consumed in the streets
+H002_03,How frequently do the following things occur in your neighborhood?  Police or military interfere with people’s private life
+H002_04,How frequently do the following things occur in your neighborhood?  Racist behavior
+H002_05,How frequently do the following things occur in your neighborhood?  Drug sale in streets
+H003_01,Which of the following things have you done for reasons of security?  Didn’t carry much money
+H003_02,Which of the following things have you done for reasons of security?  Preferred not to go out at night
+H003_03,"Which of the following things have you done for reasons of security?  Carried a knife, gun or other weapon"
+H004,Have you been the victim of a crime during the past year?  Respondent
+H005,And what about your immediate family--has someone in your family been the victim of a crime during the last year?  Family
+H006_01,To what degree are you worried about the following situations?  Losing my job or not finding a job
+H006_02,To what degree are you worried about the following situations?  Not being able to give one's children a good education
+H006_03,To what degree are you worried about the following situations?  A war involving my country
+H006_04,To what degree are you worried about the following situations?  A terrorist attack
+H006_05,To what degree are you worried about the following situations?  A civil war
+H006_06,To what degree are you worried about the following situations?
+H007,Do you agree or disagree with the following statement:
+H008_01,"In the last 12 months, how often have you or your family:  Gone without enough food to eat"
+H011,Do you think that this country’s government should or should not have the right to do the following: Collect information about anyone living in this country without their knowledge
+H008_02,"In the last 12 months, how often have you or your family:  Felt unsafe from crime in your own home"
+H008_03,"In the last 12 months, how often have you or your family:  Gone without needed medicine or treatment that you needed"
+H008_04,"In the last 12 months, how often have you or your family:  Gone without a cash income"
+H008_05,How frequently do the following things occur in your neighborhood?:  Street violence and fights
+H008_06,How frequently do the following things occur in your neighborhood?:  Sexual harassment
+H008_07,"Most people consider both freedom and equality to be important, but if you had to choose between them, which one would you consider more important?"
+H008_08,"Most people consider both freedom and security to be important, but if you had to choose between them, which one would you consider more important?"
+H008_09,"In the last 12 months, how often have you or your family:  Gone without a safe shelter over your head"
+H009,Do you think this country’s government should or should not have the right to do the following: Keep people under video surveillance in public areas
+H010,Do you think this country’s government should or should not have the right to do the following: Monitor all emails and any other information exchanged on the Internet
+I001,"Now, I would like to read some statements and ask how much you agree or disagree with each of these statements. For these questions, a 1 means that you “completely disagree” and a 10 means that you “completely agree”:  One of the bad effects of science is that it breaks down people’s ideas of right and wrong"
+I002,"Now, I would like to read some statements and ask how much you agree or disagree with each of these statements. For these questions, a 1 means that you “completely disagree” and a 10 means that you “completely agree”:  It is not important for me to know about science in my daily life"
+V001A,In which country was your father born?
+V002A,In which country was your mother born?
+V004AM,What is the highest educational level that your mother has attained?
+V004AF,What is the highest educational level that your father has attained?
+V004RM,Highest educational level attained - Respondent´s Mother (Recoded)
+V004RF,
+V097EF,"When you were 14, to which of the following occupational groups did your father belong?"
+W001,Was your partner/spouse born in ... [COUNTRY]?
+W002A2,What is the highest educational level that your spouse has attained?
+W002D,"What is the highest educational level that your spouse has attained?. Please, code the levels of education according to the existing in [your country] classification of education levels."
+W002R,
+W004,In his/her LAST job was he/she employed (either full time or part time) or was he/she self-employed?
+W005_2,"In his or her main job, what kind of work do/did your partner most of the time?"
+W006E,To which of the following occupational groups does your spouse belong?
+W007,How many employees does/did he or she have?
+W008,Does/did he or she have any responsibility for supervising the work of other employees?
+W009,How many other employees does/did he or she supervise?
+W010,"During the last five years, have you experienced a continuous period of unemployment longer than 3 months?"
+W011,"During the last five years, have you been dependent on social security at any time?"
+W012,Is your spouse employed?. In his/her LAST job was he/she employed (either full time or part time) or was he/she self-employed?
+X001,Sex
+X002,"Can you tell me your year of birth, please?"
+X002_02A,In which country were you born?
+X002_03,Can you tell me in which year you first came to live in [COUNTRY]
+X003,
+X006_02,Did you live together with your partner before your marriage or before the registration of your partnership?
+X007,Are you currently ....
+X007_02,Do you live with a partner?
+X008,Have you been married before?
+X010,Where did you live after married?
+X011,"Have you had children? If yes, how many?"
+X011A,Have you had any children?
+X012,How many of them are still living at home?
+X013,"How many people are there in your household, including yourself and children?"
+X023,"At what age did you (or will you) complete your full time education, either at school or at an institution of higher education? Please exclude apprenticeships: [IF STUDENT, CODE AGE AT WHICH HE/SHE EXPECTS TO COMPLETE EDUCATION] WRITE IN AGE IN YEARS _________ [TWO DIGITS]"
+X023R,At what age do you expect you will have completed your education?
+X024B,Was the respondent literate?
+X025,highest educational level attained respondent (8 categories)
+X025A2,What is the highest educational level that you have attained?
+X025CS,What is the highest educational level that you have attained?
+X025CSWVS,"What is the highest educational level that you have attained?. Please, code the levels of education according to the existing in [your country] classification of education levels."
+X025LIT,Was the respondent literate or illiterate?
+X025R,
+X026,Do you live with your parents
+X028,Are you employed now or not? IF YES: About how many hours a week?
+X028_01,In your LAST job were you employed (either full time or part time) or were you selfemployed?
+X031,Do/did you have any responsibility for supervising the work of other employees?
+X032R,How many other employees do/did you supervise?
+X034,How many employees do/did you have?
+X036,"In which profession/occupation do you or did you work? If more than one job, the main job? What is/was your job there?"
+X036E,To which of the following occupational groups do you belong?
+X040,Are you the chief wage earner in your house
+X041,Is the chief wage earner employed now or not?
+X043,"In which profession/occupation does he/she work? (or did work) If more than one job, the main job? What is/was his/her job there?"
+X044,"During the past year, did your family:"
+X045,"People sometimes describe themselves as belonging to the working class, the middle class, or the upper or lower class. Would you describe yourself as belonging one of them?"
+X045B,
+X046,
+X047,"On this card is an income scale on which 1 indicates the lowest income group and 10 the highest income group in your country. We would like to know in what group your household is. Please, specify the appropriate number, counting all wages, salaries, pensions and other incomes that come in."
+X047CS,
+X047R,
+X048WVS,
+X048ISO,
+X049,
+X049CS,
+X050,
+X050B,
+X050C,
+X051,
+X052,"Are you working for the government or public institution, for private business or industry, or for a private non-profit organization?. If you do not work currently, characterize your major work in the past!. Do you or did you work for?"
+X053,"Are the tasks you perform at work mostly manual or mostly cognitive? If you do not work currently, characterize your major work in the past. Use this scale where 1 means “mostly manual tasks” and 10 means “mostly cognitive tasks”"
+X054,"Are the tasks you perform at work mostly routine tasks or mostly creative tasks? If you do not work currently, characterize your major work in the past. Use this scale where 1 means “mostly routine tasks” and 10 means “mostly creative tasks” (code one answer):"
+X055,"How much independence do you have in performing your tasks at work? If you do not work currently, characterize your major work in the past. Use this scale to indicate your degree of independence where 1 means “no independence at all” and 10 means “complete independence” (code one answer):"
+Y001,
+Y002,
+Y003,
+Y010,
+Y011,
+Y012,
+Y013,
+Y014,
+Y020,
+Y021,
+Y022,
+Y023,
+Y024,
+Y011A,
+Y011B,
+Y011C,
+Y012A,
+Y012B,
+Y012C,
+Y013A,
+Y013B,
+Y013C,
+Y014A,
+Y014B,
+Y014C,
+Y021A,
+Y021B,
+Y021C,
+Y022A,
+Y022B,
+Y022C,
+Y023A,
+Y023B,
+Y023C,
+Y024A,
+Y024B,
+Y024C,
+S012B,
